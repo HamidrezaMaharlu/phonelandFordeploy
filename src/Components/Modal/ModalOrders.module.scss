@@ -1,0 +1,24 @@
+@import "CustomModal.module";
+
+.description {
+  font-size: 1.4rem;
+  font-family: IRANSans-web;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+
+  div {
+    width: 40%;
+    margin: 1rem;
+    .bold{
+      font-weight: bold;
+    }
+  }
+
+}
+
+.deliver{
+  font-size: 1.4rem;
+  text-align: center;
+}

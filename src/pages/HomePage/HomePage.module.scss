@@ -1,0 +1,49 @@
+@import "./src/breakpoint";
+.slider {
+  height: 12rem;
+  width: 100%;
+  overflow: hidden;
+  @include md{
+    height: 30rem;
+  }
+}
+.familiarity{
+  height: 20rem;
+  width: 100%;
+  margin-bottom: 15rem;
+  box-shadow: 0rem -0.3rem 0.6rem 0 rgb(30 60 88 / 16%);
+
+  h1{
+    margin-bottom: 2rem;
+    padding-top: 2rem;
+  }
+  div{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img{
+      height: 100%;
+      width: 80%;
+      object-fit: fill;
+    }
+  }
+
+}
+.gift{
+  height: 30rem;
+  width: 100%;
+  box-shadow: 0rem -0.3rem 0.6rem 0 rgb(30 60 88 / 16%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  div{
+    width: 100%;
+    img{
+      height: 100%;
+      width: 100%;
+      object-fit: fill;
+    }
+  }
+
+}

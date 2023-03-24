@@ -1,0 +1,23 @@
+.brandProduct {
+  background-color: #1e3c58;
+  margin-bottom: 5rem;
+  border-top: 0.1rem solid darkgray;
+  border-bottom: 0.1rem solid darkgray;
+  padding: 5rem 5rem 2.5rem 5rem;
+
+  .brandHeader {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    color: white;
+    gap: 1rem;
+
+    p {
+      width: 90%;
+      height: 1px;
+      background-color: white;
+    }
+  }
+}

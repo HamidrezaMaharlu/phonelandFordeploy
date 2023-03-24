@@ -1,0 +1,11 @@
+.pageContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .myPage {
+    direction: ltr;
+    cursor: pointer;
+  }
+}

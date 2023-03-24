@@ -1,0 +1,15 @@
+@import "variable";
+@import "~bootstrap/scss/bootstrap";
+@media (max-width: 991.98px) {
+  .navbar-toggler:focus {
+    outline: none;
+    box-shadow: none;
+  }
+}
+
+.myTab{
+  .nav-link{
+    color: black;
+    font-size: 1.4rem;
+  }
+}

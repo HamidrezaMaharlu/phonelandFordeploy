@@ -1,0 +1,36 @@
+@import "src/variable";
+.manageOrders {
+  font-size: 1.4rem;
+  width: 90%;
+  margin: 2rem auto;
+
+  .manageOrders--filter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid gray;
+    border-radius: 3rem;
+    padding: 1rem;
+    margin-bottom: 3rem;
+
+    P {
+      margin-bottom: 0;
+    }
+
+    .selected {
+      background-color: darkred;
+      transform: scale(1.1);
+      transition: all ease-in 300ms;
+    }
+  }
+
+}
+
+.checkStatus{
+  background-color:$info ;
+  border-color: $info;
+  &:hover, &:active {
+    background: darken($info, 10);
+    border-color: darken($info, 10);
+  }
+}

@@ -1,0 +1,87 @@
+@import "../../variable";
+@import "../../breakpoint";
+
+.brand__Container {
+  position: relative;
+  margin: 5rem 1rem 2.5rem 1rem;
+  padding-top: 2.5rem;
+  border-top: 0.1rem solid $secondary;
+
+  h3 {
+    position: absolute;
+    top: -1.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 1.1rem;
+    color: white;
+    background-color: $secondary;
+    padding: 0.5rem 1rem;
+    @include md {
+      font-size: 1.5rem;
+    }
+  }
+
+  .brand__icon{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin: 0 2.5rem;
+    img{
+      border-radius: 50%;
+      width: 6rem;
+      height: 6rem;
+      border: 0.2rem solid $primary;
+      padding: 0.2rem;
+      object-fit: fill;
+      background-color: white;
+      //min-width: 12.5rem;
+      transform: scale(1);
+      animation: pulse-black 2s infinite;
+      margin-top: 1rem;
+      @include md{
+        width: 10rem;
+        height: 10rem;
+      }
+    }
+    h2{
+      width: max-content;
+      font-size: 1.2rem;
+      margin-bottom: 1rem;
+      @include md{
+        font-size: 1.6rem;
+      }
+    }
+  }
+}
+
+
+@keyframes pulse-black {
+  0% {
+    box-shadow: 0 0 0 0 rgba(251, 0, 0, 0.7);
+  }
+
+  70% {
+    box-shadow: 0 0 0 10px rgba(160, 55, 55, 0);
+  }
+
+  100% {
+    box-shadow: 0 0 0 0 rgba(255, 0, 0, 0);
+  }
+}
+
+
+.catContainer .catSlider h2 a {
+  color: black;
+  transition: 0.3s;
+}
+
+.catContainer .catSlider h2 a:hover {
+  color: red;
+  transition: 0.3s;
+}
+
+

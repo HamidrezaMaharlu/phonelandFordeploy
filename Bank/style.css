@@ -1,0 +1,31 @@
+.container{
+    width: 98vw;
+    height: 95vh;
+}
+.imageContainer{
+    width: 90%;
+    height: 90%;
+    margin: auto;
+}
+#pay{
+    position: sticky;
+    bottom: 41%;
+    left: 49.1%;
+    background-color: #28a745;
+    border: 1px solid #28a745 ;
+    padding: .5rem 6rem;
+    border-radius: 3rem;
+    color: white;
+    cursor: pointer;
+}
+#cancel{
+    position: sticky;
+    bottom: 41%;
+    left: 41.1%;
+    background-color: #f2d87d;
+    border: 1px solid #f2d87d;
+    border-radius: 3rem;
+    padding: .5rem 2rem;
+    color: white;
+    cursor: pointer;
+}

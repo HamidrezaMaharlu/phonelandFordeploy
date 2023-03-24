@@ -1,0 +1,50 @@
+@import "./src/breakpoint";
+@import "./src/variable";
+
+.manageProducts {
+  width: 90%;
+  padding: 2rem 0;
+  margin: auto;
+  overflow-x: auto;
+  @include lg {
+    font-size: 1.4rem;
+  }
+  .addProduct--container{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    .addProduct{
+      background-color: $success;
+      border-color: $success;
+      &:hover, &:active {
+        background: darken($success, 10);
+        border-color: darken($success, 10);
+      }
+    }
+  }
+
+  .editProduct{
+    background-color: $info;
+    border-color: $info;
+    &:hover, &:active {
+      background: darken($info, 10);
+      border-color: darken($info, 10);
+    }
+  }
+  .badge {
+    display: flex;
+    padding: 1rem;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2rem 0;
+    cursor: pointer;
+    border: 1px solid gray;
+    border-radius: 3rem;
+    h3{
+      .selected {
+        background-color: red !important;
+      }
+    }
+  }
+
+}

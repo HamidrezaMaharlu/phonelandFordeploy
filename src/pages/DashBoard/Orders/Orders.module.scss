@@ -1,0 +1,65 @@
+.container {
+  ::-webkit-scrollbar {
+    width: 1rem;
+  }
+
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 1rem;
+  }
+
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+
+  .orders {
+    font-size: 1.6rem;
+    text-align: center;
+    height: 80vh;
+    overflow-y: auto;
+
+    .order {
+      border: 1px solid gray;
+      border-radius: .8rem;
+      margin: 3rem auto;
+      width: 90%;
+      padding: 1rem;
+    }
+
+    .product {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      margin-bottom: 2rem;
+      border-bottom: 1px solid gainsboro;
+
+      .imgContainer {
+        width: 20%;
+        height: 5rem;
+
+        img {
+          width: 5rem;
+          height: 5rem;
+        }
+      }
+
+      .color {
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        width: 20%;
+      }
+
+      p {
+        width: 20%;
+      }
+    }
+  }
+}

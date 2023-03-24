@@ -1,0 +1,94 @@
+@import "../../variable";
+@import "../../breakpoint";
+
+.footerContent {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 0 2.5rem;
+
+  .aboutUs,
+  .another,
+  .contactUs,
+  .help,
+  .services {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    flex: 1.2;
+    gap: 1rem;
+  }
+  .help{
+    @include md{
+      display: none;
+    }
+    @include lg{
+      display: flex;
+    }
+  }
+  .aboutUs {
+    flex: 3;
+    align-items: flex-start;
+    min-width: 30rem;
+    p{
+      width: 90%;
+      text-align: justify;
+      font-size: 1.2rem;
+    }
+    div{
+      display: flex;
+      flex-direction: row;
+      flex-wrap: nowrap;
+      align-content: center;
+      justify-content: center;
+      align-items: center;
+      gap: 2.5rem;
+      P{
+        font-size: 1.6rem;
+        font-weight: bold;
+        color: $secondary;
+      }
+      img{
+        width: 10rem;
+      }
+    }
+  }
+  strong {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    border-bottom: 0.1rem solid $secondary;
+    padding-bottom: 1rem;
+    width: max-content;
+    color: black;
+  }
+  a{
+    font-size: 1.2rem;
+    text-decoration: none;
+    transition: 0.3s;
+    width: max-content;
+    color: black;
+    &:hover{
+      color: $secondary;
+      font-weight: 600;
+      transition: 0.3s;
+    }
+  }
+}
+
+
+.footerCopyRight {
+  margin: 2rem 2rem 0 2rem;
+  text-align: center;
+  border-top: 0.1rem solid $secondary;
+  padding-top: 2rem;
+  font-size: 1.2rem;
+  color: $secondary;
+  direction: ltr;
+}
+
+.footerContent .contactUs a {
+  direction: ltr;
+}

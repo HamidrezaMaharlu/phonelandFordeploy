@@ -1,0 +1,31 @@
+@import "src/variable";
+.manageCategory {
+  font-size: 1.6rem;
+  width: 90%;
+  margin: 1rem auto;
+
+  .addBrand {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+
+    .addBrandBtn {
+      background-color: $success;
+      border-color: $success;
+      &:hover, &:active {
+        background: darken($success, 10);
+        border-color: darken($success, 10);
+      }
+    }
+  }
+
+}
+
+.edit{
+  background-color: $info;
+  border-color: $info;
+  &:hover, &:active {
+    background: darken($info, 10);
+    border-color: darken($info, 10);
+  }
+}

@@ -1,0 +1,56 @@
+@import "../../variable";
+
+.basket {
+  font-size: 1.6rem;
+  text-align: center;
+}
+
+.table {
+  font-size: 1.4rem;
+  width: 80%;
+  margin: 5rem auto;
+}
+
+.increment {
+  background-color: $success;
+  padding: 1rem;
+  border-radius: 50%;
+  color: white;
+  margin: 0 1rem;
+  cursor: pointer;
+
+}
+
+.decrement {
+  background-color: $error;
+  padding: 1rem;
+  border-radius: 50%;
+  color: white;
+  margin: 0 1rem;
+  cursor: pointer;
+
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
+
+.checkout {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 5rem;
+}
+
+.spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  span{
+    margin: 0 1rem;
+  }
+}

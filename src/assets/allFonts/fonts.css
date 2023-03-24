@@ -1,0 +1,99 @@
+@font-face {
+    /*
+IranSansX fonts are considered a proprietary software. To gain information about the laws
+regarding the use of these fonts, please visit www.fontiran.com
+---------------------------------------------------------------------
+This set of fonts are used in this project under the license: (.....)
+---------------------------------------------------------------------
+*/
+    font-family: 'IRANSans-web';
+    src: url('fonts/IRANSansX-Bold.woff2') format('woff2') /* Chrome36+, Opera24+*/;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'IRANSans-web';
+    src: url('fonts/IRANSansX-Regular.woff2') format('woff2');
+    font-weight: normal;
+}
+
+
+@font-face {
+    font-family: 'IRANSans-web';
+    src: url('fonts/IRANSansX-UltraLight.woff2') format('woff2');
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: 'IRANSans-web';
+    src: url('fonts/IRANSansX-Light.woff2') format('woff2');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'IRANSans-web';
+    src: url('fonts/IRANSansX-Regular.woff2') format('woff2');
+    font-weight: 500;
+}
+
+.IRANSansBold {
+    font-family: IRANSans-web, serif;
+    color: #000;
+    margin-right: 50px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #FFF;
+    font-weight: bold;
+}
+
+.IRANSansMedium {
+    font-family: IRANSans-web, serif;
+    color: #000;
+    margin-right: 50px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #FFF;
+    font-weight: 500;
+}
+
+
+.IRANSansUltraLight {
+    font-family: IRANSans-web, serif;
+    color: #000;
+    margin-right: 50px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #FFF;
+    font-weight: 200;
+}
+
+.IRANSansLight {
+    font-family: IRANSans-web, serif;
+    color: #000;
+    margin-right: 50px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #FFF;
+    font-weight: 300;
+}
+
+.IRANSans {
+    font-family: IRANSans-web, serif;
+    color: #000;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #FFF;
+    font-weight: normal;
+    -moz-font-feature-settings: "ss03";
+    -webkit-font-feature-settings: "ss03";
+    font-feature-settings: "ss03";
+}
+.IRANSansTable {
+    font-family: IRANSans-web, serif;
+    color: #000;
+    font-weight: normal;
+    -moz-font-feature-settings: "ss03";
+    -webkit-font-feature-settings: "ss03";
+    font-feature-settings: "ss03";
+}
+

@@ -1,0 +1,2611 @@
+{
+  "products": [
+    {
+      "product-name-en": "Samsung Galaxy A52",
+      "product-name-fa": "سامسونگ مدل گلکسی A52",
+      "images": [
+        "e13010ca8026475774e8bf56b9c9096a",
+        "0d3e2fd8058c270ddfafe68035e482c8",
+        "38ed5cf70295fb90a7b11a1b56b1b5de",
+        "9268f559744ea19acb58c2b243574500",
+        "70281f7c187a159e0d7ae3e8070ef722"
+      ],
+      "thumbnail": "e13010ca8026475774e8bf56b9c9096a",
+      "colors": [
+        {
+          "id": 0,
+          "name-en": "Black",
+          "name-fa": "سیاه",
+          "hex": "#000000"
+        },
+        {
+          "id": 1,
+          "name-en": "Blue",
+          "name-fa": "آبی",
+          "hex": "#00FFF3"
+        }
+      ],
+      "price": {
+        "currency": "IRR",
+        "amount": 8099000,
+        "amount-discount": "0"
+      },
+      "guarantees": [
+        {
+          "id": 0,
+          "name-en": "18 months after-sales warranty of Awang CO",
+          "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+        }
+      ],
+      "properties": [
+        {
+          "id": 0,
+          "name-en": "Screen Size",
+          "name-fa": "سایز صفحه نمایش",
+          "value": "6.5 inches"
+        },
+        {
+          "id": 1,
+          "name-en": "Screen Resolution",
+          "name-fa": "نسبت صفحه نمایش",
+          "value": "1080 x 2400 pixels"
+        },
+        {
+          "id": 2,
+          "name-en": "Camera Quality",
+          "name-fa": "کیفیت دوربین",
+          "value": "64 MegaPixels + 12 MegaPixels + 5 MegaPixels + 5 MegaPixels"
+        },
+        {
+          "id": 3,
+          "name-en": "Internet Network",
+          "name-fa": "شبکه اینترنت",
+          "value": "4.5G"
+        },
+        {
+          "id": 4,
+          "name-en": "Battery Capacity",
+          "name-fa": "ظرفیت باتری",
+          "value": "4500 mAh"
+        }
+      ],
+      "description": {
+        "en": "Samsung Galaxy A52 Dual SIM 128GB Mobile Phone",
+        "fa": "<p>گوشی موبايل سامسونگ مدل گلکسی A52 ظرفیت 128 گیگابایت رم <span style=\"background-color: rgb(255, 0, 0);\">8</span> گیگابایت</p>"
+      },
+      "likes": [
+        1
+      ],
+      "count": "61",
+      "createdAt": 1677962863317,
+      "updatedAt": 1678705785966,
+      "category-id": "2",
+      "comments": [
+        {
+          "id": 1,
+          "user-id": 1,
+          "comment": "یاسیش کی‌شارژ میشه؟",
+          "createdAt": 1677962863317
+        },
+        {
+          "id": 2,
+          "user-id": 2,
+          "comment": "درود ، لطفا مدل 5G ،رنگ مشکی و رم 8 گیگ هر زمان موجود شد ، اطلاع بفرمایید .سپاس",
+          "createdAt": 1677962863317
+        }
+      ],
+      "id": 1
+    },
+    {
+      "product-name-en": "Samsung Galaxy Note 20 Ultra",
+      "product-name-fa": "سامسونگ گلکسی نوت 20 الترا",
+      "images": [
+        "8dc0edad1fdb2b9339a701a7ccb8217d",
+        "e77d2a8e36ff5782dbacfd7392920004",
+        "7bef4924c3df0f5def1ab4a8b714f954",
+        "fbd14aeb9ea69b7eebaadce9e0091fa3",
+        "abc929ad1c53ca772965ea7a624bb063"
+      ],
+      "thumbnail": "8dc0edad1fdb2b9339a701a7ccb8217d",
+      "colors": [
+        {
+          "name-en": "Black",
+          "name-fa": "سیاه",
+          "hex": "#000000",
+          "id": 0
+        },
+        {
+          "name-en": "Yellow",
+          "name-fa": "زرد",
+          "hex": "#FFFB00",
+          "id": 1
+        }
+      ],
+      "price": {
+        "currency": "IRR",
+        "amount": "24256000",
+        "amount-discount": "0"
+      },
+      "guarantees": [
+        {
+          "name-en": "18 months after-sales warranty",
+          "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ",
+          "id": 0
+        }
+      ],
+      "properties": [
+        {
+          "name-en": "Screen Size",
+          "name-fa": "سایز صفحه نمایش",
+          "value": "6.9 inches",
+          "id": 0
+        },
+        {
+          "name-en": "Screen Resolution",
+          "name-fa": "نسبت صفحه نمایش",
+          "value": "1440 x 3088 pixels",
+          "id": 1
+        },
+        {
+          "name-en": "Camera Quality",
+          "name-fa": "کیفیت دوربین",
+          "value": "108 MegaPixels + 12 MegaPixels + 12 MegaPixels",
+          "id": 2
+        },
+        {
+          "name-en": "Internet Network",
+          "name-fa": "شبکه اینترنت",
+          "value": "4.5G",
+          "id": 3
+        },
+        {
+          "name-en": "Battery Capacity",
+          "name-fa": "ظرفیت باتری",
+          "value": "4500 mAh",
+          "id": 4
+        }
+      ],
+      "description": {
+        "en": "Samsung Galaxy Note 20 Ultra Dual SIM 256/8GB Mobile Phone",
+        "fa": "گوشی موبايل سامسونگ مدل گلکسی نوت 20 Ultra دو سیم کارت - ظرفیت 256 گیگابایت - رم 8 گیگابایت"
+      },
+      "count": 56,
+      "likes": [],
+      "createdAt": 1677962863317,
+      "updatedAt": 1678705357471,
+      "category-id": "2",
+      "comments": [],
+      "id": 51
+    },
+    {
+      "product-name-en": "Samsung Galaxy A52",
+      "product-name-fa": "سامسونگ مدل گلکسی A52",
+      "images": [
+        "e13010ca8026475774e8bf56b9c9096a",
+        "0d3e2fd8058c270ddfafe68035e482c8",
+        "38ed5cf70295fb90a7b11a1b56b1b5de",
+        "9268f559744ea19acb58c2b243574500",
+        "70281f7c187a159e0d7ae3e8070ef722"
+      ],
+      "thumbnail": "0d3e2fd8058c270ddfafe68035e482c8",
+      "colors": [
+        {
+          "id": 0,
+          "name-en": "Black",
+          "name-fa": "سیاه",
+          "hex": "#000000"
+        },
+        {
+          "id": 1,
+          "name-en": "Blue",
+          "name-fa": "آبی",
+          "hex": "#00FFF3"
+        }
+      ],
+      "price": {
+        "currency": "IRR",
+        "amount": 8099000,
+        "amount-discount": "0"
+      },
+      "guarantees": [
+        {
+          "id": 0,
+          "name-en": "18 months after-sales warranty of Awang CO",
+          "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+        }
+      ],
+      "properties": [
+        {
+          "id": 0,
+          "name-en": "Screen Size",
+          "name-fa": "سایز صفحه نمایش",
+          "value": "6.5 inches"
+        },
+        {
+          "id": 1,
+          "name-en": "Screen Resolution",
+          "name-fa": "نسبت صفحه نمایش",
+          "value": "1080 x 2400 pixels"
+        },
+        {
+          "id": 2,
+          "name-en": "Camera Quality",
+          "name-fa": "کیفیت دوربین",
+          "value": "64 MegaPixels + 12 MegaPixels + 5 MegaPixels + 5 MegaPixels"
+        },
+        {
+          "id": 3,
+          "name-en": "Internet Network",
+          "name-fa": "شبکه اینترنت",
+          "value": "4.5G"
+        },
+        {
+          "id": 4,
+          "name-en": "Battery Capacity",
+          "name-fa": "ظرفیت باتری",
+          "value": "4500 mAh"
+        }
+      ],
+      "description": {
+        "en": "Samsung Galaxy A52 Dual SIM 128GB Mobile Phone",
+        "fa": "گوشی موبايل سامسونگ مدل گلکسی A52 ظرفیت 128 گیگابایت رم 8 گیگابایت"
+      },
+      "likes": [
+        1
+      ],
+      "count": 55,
+      "createdAt": 1677962863317,
+      "updatedAt": 1677962863317,
+      "category-id": "2",
+      "comments": [
+        {
+          "id": 1,
+          "user-id": 1,
+          "comment": "یاسیش کی‌شارژ میشه؟",
+          "createdAt": 1677962863317
+        },
+        {
+          "id": 2,
+          "user-id": 2,
+          "comment": "درود ، لطفا مدل 5G ،رنگ مشکی و رم 8 گیگ هر زمان موجود شد ، اطلاع بفرمایید .سپاس",
+          "createdAt": 1677962863317
+        }
+      ],
+      "id": 41
+    },
+    {
+      "product-name-en": "Samsung Galaxy M32",
+      "product-name-fa": "سامسونگ مدل گلکسی M32",
+      "images": [
+        "a31593b37d6dfff51b1c12e06610ca6a",
+        "58fb55e03b7e905fbb901fccd69a2fc8",
+        "3a506b2635064a8ec14e7e280135b459",
+        "2206a7e4bc1add1ff7d94593e887a9cf",
+        "6d5e3dd8003dd2a11d9fbcb6bc93f7be"
+      ],
+      "thumbnail": "3a506b2635064a8ec14e7e280135b459",
+      "colors": [
+        {
+          "id": 0,
+          "name-en": "Black",
+          "name-fa": "سیاه",
+          "hex": "#000000"
+        },
+        {
+          "id": 1,
+          "name-en": "White",
+          "name-fa": "سفید",
+          "hex": "#FFFFFF"
+        }
+      ],
+      "price": {
+        "currency": "IRR",
+        "amount": 6299000,
+        "amount-discount": "0"
+      },
+      "guarantees": [
+        {
+          "id": 0,
+          "name-en": "18 months after-sales warranty of Awang CO",
+          "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+        }
+      ],
+      "properties": [
+        {
+          "id": 0,
+          "name-en": "Screen Size",
+          "name-fa": "سایز صفحه نمایش",
+          "value": "6.4 inches"
+        },
+        {
+          "id": 1,
+          "name-en": "Screen Resolution",
+          "name-fa": "نسبت صفحه نمایش",
+          "value": "1080 x 2400 pixels"
+        },
+        {
+          "id": 2,
+          "name-en": "Camera Quality",
+          "name-fa": "کیفیت دوربین",
+          "value": "64 MegaPixels + 8 MegaPixels + 2 MegaPixels + 2 MegaPixels"
+        },
+        {
+          "id": 3,
+          "name-en": "Internet Network",
+          "name-fa": "شبکه اینترنت",
+          "value": "4.5G"
+        },
+        {
+          "id": 4,
+          "name-en": "Battery Capacity",
+          "name-fa": "ظرفیت باتری",
+          "value": "5000 mAh"
+        }
+      ],
+      "description": {
+        "en": "Samsung Galaxy M32 Dual SIM 128GB Mobile Phone",
+        "fa": "گوشی موبايل سامسونگ مدل گلکسی M32 دو سیم کارت - ظرفیت 128 گیگابایت - رم 6 گیگابایت"
+      },
+      "likes": [
+        1
+      ],
+      "count": 64,
+      "createdAt": 1677962863317,
+      "updatedAt": 1677962863317,
+      "category-id": "2",
+      "comments": [
+        {
+          "id": 1,
+          "user-id": 1,
+          "comment": "این کالا *قابلیت* شارژ سریع 25w داره ؟",
+          "createdAt": 1677962863317
+        },
+        {
+          "id": 2,
+          "user-id": 2,
+          "comment": "در سایتهای ایرانی و خارجی دیگه ۱۵ وات ذکر شده",
+          "createdAt": 1677962863317
+        }
+      ],
+      "id": 3
+    },
+    {
+      "product-name-en": "Samsung Galaxy A52s",
+      "product-name-fa": "سامسونگ مدل Galaxy A52s ",
+      "images": [
+        "8460d998f1b06e68720816f6453d0d27",
+        "08308c67b0cdd1eec9834464da16b30a",
+        "cb96138e3052fe16800ef41fe3d500f1",
+        "c1df3eb4d84710dd93ce9ae4179fe523",
+        "258979028c891549af8821677962863317"
+      ],
+      "thumbnail": "08308c67b0cdd1eec9834464da16b30a",
+      "colors": [
+        {
+          "id": 0,
+          "name-en": "Black",
+          "name-fa": "سیاه",
+          "hex": "#000000"
+        },
+        {
+          "id": 1,
+          "name-en": "Green",
+          "name-fa": "سبز",
+          "hex": "#0FFF00"
+        }
+      ],
+      "price": {
+        "currency": "IRR",
+        "amount": 9999000,
+        "amount-discount": "0"
+      },
+      "guarantees": [
+        {
+          "id": 0,
+          "name-en": "18 months after-sales warranty of Awang CO",
+          "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+        }
+      ],
+      "properties": [
+        {
+          "id": 0,
+          "name-en": "Screen Size",
+          "name-fa": "سایز صفحه نمایش",
+          "value": "6.5 inches"
+        },
+        {
+          "id": 1,
+          "name-en": "Screen Resolution",
+          "name-fa": "نسبت صفحه نمایش",
+          "value": "1080 x 2400 pixels"
+        },
+        {
+          "id": 2,
+          "name-en": "Camera Quality",
+          "name-fa": "کیفیت دوربین",
+          "value": "64 MegaPixels + 12 MegaPixels + 5 MegaPixels + 5 MegaPixels"
+        },
+        {
+          "id": 3,
+          "name-en": "Internet Network",
+          "name-fa": "شبکه اینترنت",
+          "value": "5G"
+        },
+        {
+          "id": 4,
+          "name-en": "Battery Capacity",
+          "name-fa": "ظرفیت باتری",
+          "value": "4500 mAh"
+        }
+      ],
+      "description": {
+        "en": "Samsung Galaxy A52s 5G with 256 ",
+        "fa": "گوشی موبايل سامسونگ مدل Galaxy A52s 5G ظرفیت 256 گیگابایت رم 8 گیگابایت"
+      },
+      "likes": [],
+      "count": 79,
+      "createdAt": 1677962863317,
+      "updatedAt": 1677962863317,
+      "category-id": "2",
+      "comments": [
+        {
+          "id": 1,
+          "user-id": 1,
+          "comment": "گوشی خوب و سریع و همه کاره ای هست که میتونه تمام نیازها رو برآورده کنه.",
+          "createdAt": 1677962863317
+        },
+        {
+          "id": 2,
+          "user-id": 2,
+          "comment": "یکی از بهترین میان رده ها",
+          "createdAt": 1677962863317
+        }
+      ],
+      "id": 4
+    },
+    {
+      "product-name-en": "Samsung Galaxy S20+",
+      "product-name-fa": "سامسونگ مدل گلکسی S20 پلاس",
+      "images": [
+        "f6b66d854e00531268cbfc8403cbfac1",
+        "3740ccde7d1e6ca30a3f94938179c766",
+        "854b4fd24ecff3594d0636946cac21d0",
+        "b3a724ce50d8465e15d0a32711967f29",
+        "19d782027ff99d008bbed630121bf36f"
+      ],
+      "thumbnail": "f6b66d854e00531268cbfc8403cbfac1",
+      "colors": [
+        {
+          "id": 0,
+          "name-en": "Black",
+          "name-fa": "سیاه",
+          "hex": "#000000"
+        },
+        {
+          "id": 1,
+          "name-en": "Dark Blue",
+          "name-fa": "آبی تیره",
+          "hex": "#050078"
+        }
+      ],
+      "price": {
+        "currency": "IRR",
+        "amount": 19899000,
+        "amount-discount": "0"
+      },
+      "guarantees": [
+        {
+          "id": 0,
+          "name-en": "18 months after-sales warranty of Awang CO",
+          "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+        }
+      ],
+      "properties": [
+        {
+          "id": 0,
+          "name-en": "Screen Size",
+          "name-fa": "سایز صفحه نمایش",
+          "value": "6.7 inches"
+        },
+        {
+          "id": 1,
+          "name-en": "Screen Resolution",
+          "name-fa": "نسبت صفحه نمایش",
+          "value": "1440 x 3200 pixels"
+        },
+        {
+          "id": 2,
+          "name-en": "Camera Quality",
+          "name-fa": "کیفیت دوربین",
+          "value": "Quadruple 12-megapixel + 64-megapixel + 12-megapixel + TOF 3D"
+        },
+        {
+          "id": 3,
+          "name-en": "Internet Network",
+          "name-fa": "شبکه اینترنت",
+          "value": "4.5G"
+        },
+        {
+          "id": 4,
+          "name-en": "Battery Capacity",
+          "name-fa": "ظرفیت باتری",
+          "value": "4500 mAh"
+        }
+      ],
+      "description": {
+        "en": "Samsung Galaxy S20+ Dual SIM 128/8GB Mobile Phone",
+        "fa": "گوشی موبايل سامسونگ مدل گلکسی S20 4G پلاس ظرفیت 128 گیگابایت - رم 8 گیگابایت"
+      },
+      "likes": [],
+      "count": 83,
+      "createdAt": 1677962863317,
+      "updatedAt": 1677962863317,
+      "category-id": "2",
+      "comments": [
+        {
+          "id": 1,
+          "user-id": 1,
+          "comment": "گوشی بسیار عالیه",
+          "createdAt": 1677962863317
+        },
+        {
+          "id": 2,
+          "user-id": 2,
+          "comment": "لطفا رنگ متالیک سریع بیارید ممنون منطزریم",
+          "createdAt": 1677962863317
+        }
+      ],
+      "id": 5
+    },
+    {
+      "product-name-en": "Samsung Galaxy M22",
+      "product-name-fa": "سامسونگ مدل گلکسی M22",
+      "images": [
+        "5a4994e6f87ec570088b62789d43a395",
+        "db6edae4f2cc667b51a406cd3234015e",
+        "c3aef44cf080753c1b20f8972b8bc864",
+        "92294dde0ad7d2f4f8f7e00dee7ca7a8",
+        "8d70a844cbc727954e74effda07bcb41"
+      ],
+      "thumbnail": "db6edae4f2cc667b51a406cd3234015e",
+      "colors": [
+        {
+          "id": 0,
+          "name-en": "Black",
+          "name-fa": "سیاه",
+          "hex": "#000000"
+        },
+        {
+          "id": 1,
+          "name-en": "Green",
+          "name-fa": "سبز",
+          "hex": "#0FFF00"
+        }
+      ],
+      "price": {
+        "currency": "IRR",
+        "amount": 5469000,
+        "amount-discount": "0"
+      },
+      "guarantees": [
+        {
+          "id": 0,
+          "name-en": "18 months after-sales warranty of Awang CO",
+          "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+        }
+      ],
+      "properties": [
+        {
+          "id": 0,
+          "name-en": "Screen Size",
+          "name-fa": "سایز صفحه نمایش",
+          "value": "6.4 inches"
+        },
+        {
+          "id": 1,
+          "name-en": "Screen Resolution",
+          "name-fa": "نسبت صفحه نمایش",
+          "value": "720 x 1600 pixels"
+        },
+        {
+          "id": 2,
+          "name-en": "Camera Quality",
+          "name-fa": "کیفیت دوربین",
+          "value": "48 MegaPixels + 8 MegaPixels + 2 MegaPixels + 2 MegaPixels"
+        },
+        {
+          "id": 3,
+          "name-en": "Internet Network",
+          "name-fa": "شبکه اینترنت",
+          "value": "4.5G"
+        },
+        {
+          "id": 4,
+          "name-en": "Battery Capacity",
+          "name-fa": "ظرفیت باتری",
+          "value": "5000 mAh"
+        }
+      ],
+      "description": {
+        "en": "Samsung Galaxy M22 dual SIM mobile phone - 128 GB capacity - 6 GB RAM",
+        "fa": "گوشی موبايل سامسونگ مدل گلکسی M22 دو سیم کارت - ظرفیت 128 گیگابایت - رم 6 گیگابایت"
+      },
+      "likes": [],
+      "count": 83,
+      "createdAt": 1677962863317,
+      "updatedAt": 1677962863317,
+      "category-id": "2",
+      "comments": [
+        {
+          "id": 1,
+          "user-id": 1,
+          "comment": "عالییییییییییییییییییی",
+          "createdAt": 1677962863317
+        },
+        {
+          "id": 2,
+          "user-id": 2,
+          "comment": "در رابطه با خرید این محصول نظری ندارم",
+          "createdAt": 1677962863317
+        }
+      ],
+      "id": 6
+    },
+    {
+      "product-name-en": "Samsung Galaxy A22",
+      "product-name-fa": "سامسونگ گلکسی A22",
+      "images": [
+        "27f84c2b40f9885e2d798960f4ce361b",
+        "10b34a013a4f433e85f53473b0550c08",
+        "bfb8fd1b293f8209f91a5182f74907b4",
+        "552472e036c62c13563afc5ce1a8997e",
+        "f0d7569984f166ecf4e6c32c91ef9caa"
+      ],
+      "thumbnail": "27f84c2b40f9885e2d798960f4ce361b",
+      "colors": [
+        {
+          "id": 0,
+          "name-en": "Black",
+          "name-fa": "سیاه",
+          "hex": "#000000"
+        },
+        {
+          "id": 1,
+          "name-en": "White",
+          "name-fa": "سفید",
+          "hex": "#FFFFFF"
+        }
+      ],
+      "price": {
+        "currency": "IRR",
+        "amount": 5149000,
+        "amount-discount": "0"
+      },
+      "guarantees": [
+        {
+          "id": 0,
+          "name-en": "18 months after-sales warranty of Awang CO",
+          "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+        }
+      ],
+      "properties": [
+        {
+          "id": 0,
+          "name-en": "Screen Size",
+          "name-fa": "سایز صفحه نمایش",
+          "value": "6.4 inches"
+        },
+        {
+          "id": 1,
+          "name-en": "Screen Resolution",
+          "name-fa": "نسبت صفحه نمایش",
+          "value": "720 x 1600 pixels"
+        },
+        {
+          "id": 2,
+          "name-en": "Camera Quality",
+          "name-fa": "کیفیت دوربین",
+          "value": "48 MegaPixels + 8 MegaPixels + 2 MegaPixels + 2 MegaPixels"
+        },
+        {
+          "id": 3,
+          "name-en": "Internet Network",
+          "name-fa": "شبکه اینترنت",
+          "value": "4.5G"
+        },
+        {
+          "id": 4,
+          "name-en": "Battery Capacity",
+          "name-fa": "ظرفیت باتری",
+          "value": "5000 mAh"
+        }
+      ],
+      "description": {
+        "en": "Samsung Galaxy A22 dual SIM mobile phone - 128 GB capacity - 4 GB RAM",
+        "fa": "گوشی موبايل سامسونگ گلکسی A22 دو سیم کارت - ظرفیت 128 گیگابایت - رم 4 گیگابایت"
+      },
+      "likes": [],
+      "count": 94,
+      "createdAt": 1677962863317,
+      "updatedAt": 1677962863317,
+      "category-id": "2",
+      "comments": [
+        {
+          "id": 1,
+          "user-id": 1,
+          "comment": "این گوشی اصلا تایپ من نیست",
+          "createdAt": 1677962863317
+        },
+        {
+          "id": 2,
+          "user-id": 2,
+          "comment": "برای منی که کار زیادی با گوشی نمیکنم فوق العادس",
+          "createdAt": 1677962863317
+        }
+      ],
+      "id": 7
+    },
+    {
+      "product-name-en": "Xiaomi 11T Pro",
+      "product-name-fa": "شیائومی مدل 11T Pro 5G",
+      "images": [
+        "25a21b289fc6de480b3c1e6757ee0400",
+        "6f801e4ece654cb746c39e2fb847c484",
+        "7bcf36d067d710c1ff407856b7365c3f",
+        "193b0120841f557d186092355e8854f6",
+        "a2947d3a3f5f0166f0ee1c6b84ff1bb4"
+      ],
+      "thumbnail": "6f801e4ece654cb746c39e2fb847c484",
+      "colors": [
+        {
+          "id": 0,
+          "name-en": "Black",
+          "name-fa": "سیاه",
+          "hex": "#000000"
+        },
+        {
+          "id": 1,
+          "name-en": "Yellow",
+          "name-fa": "زرد",
+          "hex": "#FFFB00"
+        }
+      ],
+      "price": {
+        "currency": "IRR",
+        "amount": 16099000,
+        "amount-discount": "0"
+      },
+      "guarantees": [
+        {
+          "id": 0,
+          "name-en": "18 months after-sales warranty of Awang CO",
+          "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+        }
+      ],
+      "properties": [
+        {
+          "id": 0,
+          "name-en": "Screen Size",
+          "name-fa": "سایز صفحه نمایش",
+          "value": "6.67 inches"
+        },
+        {
+          "id": 1,
+          "name-en": "Screen Resolution",
+          "name-fa": "نسبت صفحه نمایش",
+          "value": "1080 x 2400 pixels"
+        },
+        {
+          "id": 2,
+          "name-en": "Camera Quality",
+          "name-fa": "کیفیت دوربین",
+          "value": "108 MegaPixels + 8 MegaPixels + 5 MegaPixels"
+        },
+        {
+          "id": 3,
+          "name-en": "Internet Network",
+          "name-fa": "شبکه اینترنت",
+          "value": "5G"
+        },
+        {
+          "id": 4,
+          "name-fa": "ظرفیت باتری",
+          "name-en": "Battery Capacity",
+          "value": "5000 mAh"
+        }
+      ],
+      "description": {
+        "en": "<p>گوشی موبایل شیائومی مدل 11T Pro 5G - ظرفیت 256 گیگابایت - رم 12 گیگابایت</p>",
+        "fa": "<p>Xiaomi 11T Pro 5G (256/12) - Dual SIM Mobile Phone</p>"
+      },
+      "likes": [],
+      "count": 20,
+      "createdAt": 1677962863317,
+      "updatedAt": 1677962863317,
+      "category-id": "3",
+      "comments": [],
+      "id": 8
+    },
+    {
+      "product-name-en": "Xiaomi Mi 11i - 5G",
+      "product-name-fa": "شیائومی Mi 11i - 5G",
+      "images": [
+        "853edcf1ba1d1a0018fb9f4d4157ef64",
+        "8f9ba381db9744ddc46c788e94a96a6f",
+        "94050ff832deb31029e34b370b9666f6",
+        "87d63ff362c056225a306688e83fa496",
+        "bce8d63c7d5e0702d28cc20b749f54a3"
+      ],
+      "thumbnail": "8f9ba381db9744ddc46c788e94a96a6f",
+      "colors": [
+        {
+          "id": 0,
+          "name-en": "Black",
+          "name-fa": "سیاه",
+          "hex": "#000000"
+        },
+        {
+          "id": 1,
+          "name-en": "Blue",
+          "name-fa": "آبی",
+          "hex": "#00FFF3"
+        }
+      ],
+      "price": {
+        "currency": "IRR",
+        "amount": 14889000,
+        "amount-discount": "0"
+      },
+      "guarantees": [
+        {
+          "id": 0,
+          "name-en": "18 months after-sales warranty of Awang CO",
+          "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+        }
+      ],
+      "properties": [
+        {
+          "id": 0,
+          "name-en": "Screen Size",
+          "name-fa": "سایز صفحه نمایش",
+          "value": "6.67 inches"
+        },
+        {
+          "id": 1,
+          "name-en": "Screen Resolution",
+          "name-fa": "نسبت صفحه نمایش",
+          "value": "1080 x 2400 pixels"
+        },
+        {
+          "id": 2,
+          "name-en": "Camera Quality",
+          "name-fa": "کیفیت دوربین",
+          "value": "108 MegaPixels + 8 MegaPixels + 5 MegaPixels"
+        },
+        {
+          "id": 3,
+          "name-en": "Internet Network",
+          "name-fa": "شبکه اینترنت",
+          "value": "5G"
+        },
+        {
+          "id": 4,
+          "name-en": "Battery Capacity",
+          "name-fa": "ظرفیت باتری",
+          "value": "4520 mAh"
+        }
+      ],
+      "description": {
+        "en": "Xiaomi Mi 11i 5G (256/8) - Dual SIM Mobile Phone",
+        "fa": "گوشی موبایل شیائومی Mi 11i - 5G - ظرفیت 256 گیگابایت - رم 8 گیگابایت"
+      },
+      "likes": [],
+      "count": 28,
+      "createdAt": 1677962863317,
+      "updatedAt": 1677962863317,
+      "category-id": "3",
+      "comments": [
+        {
+          "id": 1,
+          "user-id": 1,
+          "comment": "با تخفیف موجود کنید",
+          "createdAt": 1677962863317
+        },
+        {
+          "id": 2,
+          "user-id": 2,
+          "comment": "من یه روزه که گوشی به دستم رسیده و فوقعلاده راضیم فقط یکمی دیر به دستم رسید",
+          "createdAt": 1677962863317
+        }
+      ],
+      "id": 9
+    },
+    {
+      "product-name-en": "Xioami Mi 11Lite - 4G",
+      "product-name-fa": "شیائومی Mi 11 Lite - 4G",
+      "images": [
+        "22b7c3a624723ae57bfcea7e7de19dbf",
+        "eeb387648839e0f8160dd46f5df934dd",
+        "c3bc82fce08eec928184088a40387055",
+        "ffbd2be65e4360cff16d7d346ba86937",
+        "5d93293e339e4b4b9c2b97fceae8326c"
+      ],
+      "thumbnail": "eeb387648839e0f8160dd46f5df934dd",
+      "colors": [
+        {
+          "id": 0,
+          "name-en": "Black",
+          "name-fa": "سیاه",
+          "hex": "#000000"
+        },
+        {
+          "id": 1,
+          "name-en": "Dark Blue",
+          "name-fa": "آبی تیره",
+          "hex": "#050078"
+        }
+      ],
+      "price": {
+        "currency": "IRR",
+        "amount": 7799000,
+        "amount-discount": "0"
+      },
+      "guarantees": [
+        {
+          "id": 0,
+          "name-en": "18 months after-sales warranty of Awang CO",
+          "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+        }
+      ],
+      "properties": [
+        {
+          "id": 0,
+          "name-en": "Screen Size",
+          "name-fa": "سایز صفحه نمایش",
+          "value": "6.55 inches"
+        },
+        {
+          "id": 1,
+          "name-en": "Screen Resolution",
+          "name-fa": "نسبت صفحه نمایش",
+          "value": "1080 x 2400 pixels"
+        },
+        {
+          "id": 2,
+          "name-en": "Camera Quality",
+          "name-fa": "کیفیت دوربین",
+          "value": "64 MegaPixels + 8 MegaPixels + 5 MegaPixels"
+        },
+        {
+          "id": 3,
+          "name-en": "Internet Network",
+          "name-fa": "شبکه اینترنت",
+          "value": "4.5G"
+        },
+        {
+          "id": 4,
+          "name-en": "Battery Capacity",
+          "name-fa": "ظرفیت باتری",
+          "value": "4250 mAh"
+        }
+      ],
+      "description": {
+        "en": "Xioami Mi 11 Lite Dual SIM 128GB Mobile Phone",
+        "fa": "گوشی موبایل شیائومی Mi 11 Lite - 4G - ظرفیت 128 گیگابایت - رم 8 گیگابایت"
+      },
+      "likes": [],
+      "count": 76,
+      "createdAt": 1677962863317,
+      "updatedAt": 1677962863317,
+      "category-id": "3",
+      "comments": [
+        {
+          "id": 1,
+          "user-id": 1,
+          "comment": "سلام لطفا رنگ صورتیش هم موجود کنین",
+          "createdAt": 1677962863317
+        },
+        {
+          "id": 2,
+          "user-id": 2,
+          "comment": "سلام لطفاً این گوشی با رم۸ و گلوبال موجود کنید .",
+          "createdAt": 1677962863317
+        }
+      ],
+      "id": 10
+    },
+    {
+      "product-name-en": "Xiaomi Poco F3 5G",
+      "product-name-fa": "شیائومی مدل Poco F3 5G",
+      "images": [
+        "fe85309d6ba3a225997b81a5922bfd56",
+        "1dea7b35ae49cc79fc923323f1dc67ed",
+        "fff5c28b3da29c267b394a25b8676eeb",
+        "4fb6ae426bb6f82ed60f4247e8893f84",
+        "486312060ff6245319e47bbca5862c88"
+      ],
+      "thumbnail": "1dea7b35ae49cc79fc923323f1dc67ed",
+      "colors": [
+        {
+          "id": 0,
+          "name-en": "Black",
+          "name-fa": "سیاه",
+          "hex": "#000000"
+        },
+        {
+          "id": 1,
+          "name-en": "Green",
+          "name-fa": "سبز",
+          "hex": "#0FFF00"
+        }
+      ],
+      "price": {
+        "currency": "IRR",
+        "amount": 8659000,
+        "amount-discount": "0"
+      },
+      "guarantees": [
+        {
+          "id": 0,
+          "name-en": "18 months after-sales warranty of Awang CO",
+          "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+        }
+      ],
+      "properties": [
+        {
+          "id": 0,
+          "name-en": "Screen Size",
+          "name-fa": "سایز صفحه نمایش",
+          "value": "6.67 inches"
+        },
+        {
+          "id": 1,
+          "name-en": "Screen Resolution",
+          "name-fa": "نسبت صفحه نمایش",
+          "value": "1080 x 2400 pixels"
+        },
+        {
+          "id": 2,
+          "name-en": "Camera Quality",
+          "name-fa": "کیفیت دوربین",
+          "value": "48 MegaPixels + 8 MegaPixels + 5 MegaPixels"
+        },
+        {
+          "id": 3,
+          "name-en": "Internet Network",
+          "name-fa": "شبکه اینترنت",
+          "value": "5G"
+        },
+        {
+          "id": 4,
+          "name-en": "Battery Capacity",
+          "name-fa": "ظرفیت باتری",
+          "value": "4520 mAh"
+        }
+      ],
+      "description": {
+        "en": "Xiaomi Poco F3 5G Dual SIM 256GB Mobile Phone",
+        "fa": "گوشی موبایل شیائومی مدل Poco F3 5G - ظرفیت 256 گیگابایت - رم 8 گیگابایت"
+      },
+      "likes": [],
+      "count": 38,
+      "createdAt": 1677962863317,
+      "updatedAt": 1677962863317,
+      "category-id": "3",
+      "comments": [
+        {
+          "id": 1,
+          "user-id": 1,
+          "comment": "کاملا به نسبت قیمت میارزه",
+          "createdAt": 1677962863317
+        },
+        {
+          "id": 2,
+          "user-id": 2,
+          "comment": "كاملا به دوستاني كه براي بازي و كارهاي سنگين به دنبال موبايلي با قيمت مناسب و راندمان بالا ميگردند توصيه مي شود.",
+          "createdAt": 1677962863317
+        }
+      ],
+      "id": 11
+    },
+    {
+      "product-name-en": "XIAOMI REDMI NOTE 11",
+      "product-name-fa": "شیائومی Redmi Note 11",
+      "images": [
+        "0a1b0a4307a741ce0733a39bd1d00112",
+        "9d461a57cfcb0b8deb6fbf5e26de418d",
+        "3e0215ad073bcba0e27b44c9581b68d3",
+        "e083624398dfc4fcb8947f6b0bfd6c3e",
+        "2be802ee6fc7c78aaf2368cd34f820ed"
+      ],
+      "thumbnail": "9d461a57cfcb0b8deb6fbf5e26de418d",
+      "colors": [
+        {
+          "id": 0,
+          "name-en": "Black",
+          "name-fa": "سیاه",
+          "hex": "#000000"
+        },
+        {
+          "id": 1,
+          "name-en": "Blue",
+          "name-fa": "آبی",
+          "hex": "#00FFF3"
+        }
+      ],
+      "price": {
+        "currency": "IRR",
+        "amount": 5099000,
+        "amount-discount": "0"
+      },
+      "guarantees": [
+        {
+          "id": 0,
+          "name-en": "18 months after-sales warranty of Awang CO",
+          "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+        }
+      ],
+      "properties": [
+        {
+          "id": 0,
+          "name-en": "Screen Size",
+          "name-fa": "سایز صفحه نمایش",
+          "value": "6.43 inches"
+        },
+        {
+          "id": 1,
+          "name-en": "Screen Resolution",
+          "name-fa": "نسبت صفحه نمایش",
+          "value": "1080 x 2400 pixels"
+        },
+        {
+          "id": 2,
+          "name-en": "Camera Quality",
+          "name-fa": "کیفیت دوربین",
+          "value": "50 MegaPixels + 8 MegaPixels + 2 MegaPixels + 2 MegaPixels"
+        },
+        {
+          "id": 3,
+          "name-en": "Internet Network",
+          "name-fa": "شبکه اینترنت",
+          "value": "4.5G"
+        },
+        {
+          "id": 4,
+          "name-en": "Battery Capacity",
+          "name-fa": "ظرفیت باتری",
+          "value": "5000 mAh"
+        }
+      ],
+      "description": {
+        "en": "Xiaomi Redmi Note 11 mobile phone with a capacity of 128 GB - 4 GB of RAM",
+        "fa": "گوشی موبایل شیائومی مدل Poco F3 5G - ظرفیت 128 گیگابایت - رم 6 گیگابایت"
+      },
+      "likes": [],
+      "count": 22,
+      "createdAt": 1677962863317,
+      "updatedAt": 1677962863317,
+      "category-id": "3",
+      "comments": [
+        {
+          "id": 1,
+          "user-id": 1,
+          "comment": "Yesss",
+          "createdAt": 1677962863317
+        },
+        {
+          "id": 2,
+          "user-id": 2,
+          "comment": "در مقایسه با رقیبانش بسیار خوب",
+          "createdAt": 1677962863317
+        }
+      ],
+      "id": 12
+    },
+    {
+      "product-name-en": "Xiaomi Redmi 9A - Dual SIM Mobile Phone",
+      "product-name-fa": " شیائومی مدل Redmi 9A",
+      "images": [
+        "3a6b9195bae08a1cc901677962863317",
+        "83d8cc01af1a5e31268d95c680df6d5a",
+        "9e480ec7caf63a3baeaa36b7c99c89fc",
+        "3f2bfa02256081227cbab36c1d0e1794",
+        "7ef8417b8eb2f0b6247d80477a09cb95"
+      ],
+      "thumbnail": "83d8cc01af1a5e31268d95c680df6d5a",
+      "colors": [
+        {
+          "id": 0,
+          "name-fa": "سیاه",
+          "name-en": "black",
+          "hex": "#000000"
+        },
+        {
+          "id": 1,
+          "name-fa": "سبز",
+          "name-en": "green",
+          "hex": "#00FF00"
+        }
+      ],
+      "price": {
+        "currency": "IRR",
+        "amount": 2479000,
+        "amount-discount": "0"
+      },
+      "guarantees": [
+        {
+          "id": 0,
+          "name-fa": "18 ماه گارانتی شرکتی + تضمین رجیستری",
+          "name-en": "18 months company warranty + registry guarantee"
+        },
+        {
+          "id": 1,
+          "name-fa": "گارانتی تعویض کسری",
+          "name-en": "Avazheng replacement warranty 6 months"
+        }
+      ],
+      "properties": [
+        {
+          "id": 0,
+          "name-fa": "نوع پردازنده - CPU",
+          "name-en": "CPU",
+          "value": "(MediaTek Helio G25 (12 nm / هشت هسته‌ی 2.0 گیگاهرتز Cortex-A53"
+        },
+        {
+          "id": 1,
+          "name-fa": "کیفیت دوربین",
+          "name-en": "Camera",
+          "value": "دوربین 13 مگاپیکسل"
+        },
+        {
+          "id": 2,
+          "name-fa": "حافظه داخلی",
+          "name-en": "Storage",
+          "value": "32 گیگابایت"
+        },
+        {
+          "id": 3,
+          "name-fa": "حافظه RAM",
+          "name-en": "Ram",
+          "value": "2 گیگابایت"
+        },
+        {
+          "id": 4,
+          "name-fa": "نوع صفحه نمایش",
+          "value": "IPS LCD | لمسی خازنی",
+          "name-en": "Screen Model"
+        }
+      ],
+      "description": {
+        "en": "<p>Xiaomi Redmi 9A is designed and manufactured in the dimensions of 9 x 74 x 1677962863317weighs 196 grams.<br><br>On the front panel is a 6.53-inch display with very narrow bezels, in which the selfie camera is placed in a U-shaped drop.<br><br>On the right edge is the power button and volume up / down, and on the left edge is the SIM card slot.<br><br>USB Mini port, speaker, microphone and 3.5mm audio jack take up space from the bottom edge.<br><br>The Redmi 9A is a nice phone to have with the right dimensions and weight, which is a pleasure to work with.</p>",
+        "fa": "<p>گوشی شیائومی ردمی 9A در ابعاد 1677962863317164.9 میلی‌متر و وزن 196 گرم طراحی و ساخته‌شده است.</p><p><br></p><p>در پنل جلویی یک نمایشگر 6.53 اینچی با حاشیه‌های بسیار باریک دیده می‌شود که دوربین سلفی به‌صورت قطره‌ای (U) شکل در آن قرارگرفته است.</p><p><br></p><p>در لبه سمت راست کلید پاور و کم/زیاد کردن صدا قرارگرفته و در لبه سمت چپ خشاب سیم‌کارت را مشاهده می‌شود.</p><p><br></p><p>درگاه USB Mini، اسپیکر، میکروفون و جک 3.5 میلی‌متری صدا فضایی از لبه پایینی را به خود اختصاص داده‌اند.</p><p><br></p><p>ردمی 9A با داشتن ابعاد و وزن مناسب یک گوشی خوش‌دست به‌حساب می‌آید که کار کردن با آن لذت‌بخش است.</p>"
+      },
+      "likes": [],
+      "count": 12,
+      "createdAt": 1677962863317,
+      "updatedAt": 1677962863317,
+      "category-id": "3",
+      "comments": [
+        {
+          "id": 1,
+          "user-id": 2,
+          "comment": "خیلی گوشی خوبی هست . من که راضی ام . مرسی از فروشگاه خوبتون,",
+          "createdAt": 1677962863317
+        }
+      ],
+      "id": 13
+    },
+    {
+      "product-name-en": "Xiaomi Poco C31 32/3GB",
+      "product-name-fa": " شیائومی Poco C31",
+      "images": [
+        "9c7c89e488fe2ae3300b786f74b0008b",
+        "19a50ba1f77464bb1e925f88abdad3f3",
+        "1f411f01159b6cd6b61da051b42c86b4",
+        "3d7830a7387e129577412e68e4b65e9e",
+        "eac7a442af13a7278106b28744b08ce9"
+      ],
+      "thumbnail": "19a50ba1f77464bb1e925f88abdad3f3",
+      "colors": [
+        {
+          "id": 0,
+          "name-fa": "سیاه",
+          "name-en": "black",
+          "hex": "#000000"
+        },
+        {
+          "id": 1,
+          "name-fa": "قرمز",
+          "name-en": "red",
+          "hex": "#FF0000"
+        },
+        {
+          "id": 2,
+          "name-en": "cyan",
+          "hex": "#00FFFF",
+          "name-fa": "فیروزه ای"
+        },
+        {
+          "id": 3,
+          "name-fa": "آبی آسمانی",
+          "hex": "#00BFFF",
+          "name-en": "deepskyblue"
+        }
+      ],
+      "price": {
+        "currency": "IRR",
+        "amount": 3149000,
+        "amount-discount": "149000"
+      },
+      "guarantees": [
+        {
+          "id": 0,
+          "name-fa": " 18 ماه گارانتی کسری پارس + تضمین رجیستری",
+          "name-en": "18 months Pars deficit warranty + registry guarantee"
+        }
+      ],
+      "properties": [
+        {
+          "id": 0,
+          "name-fa": "نوع پردازنده - CPU",
+          "name-en": "CPU",
+          "value": "MediaTek MT6765G Helio G35 (12 nm) / هشت هسته‌ی - چهار هسته 2.3 گیگاهرتز Cortex-A53 و چهارهسته 1.8 گیگاهرتز Cortex-A53"
+        },
+        {
+          "id": 1,
+          "name-fa": "تعداد هسته پردازشگر",
+          "value": "کمتر از دو هسته",
+          "name-en": "CPU Core"
+        },
+        {
+          "id": 2,
+          "name-fa": "تعداد سیم‌کارت",
+          "value": "دو سیم کارت ( نانو سیم - همزمان فعال)",
+          "name-en": "Simcard"
+        },
+        {
+          "id": 3,
+          "name-fa": "کیفیت دوربین",
+          "name-en": "Camera",
+          "value": "دوربین سه گانه 13 مگاپیکسل + 2 مگاپیکسل + 2 مگاپیکسل"
+        },
+        {
+          "id": 4,
+          "name-fa": "سیستم عامل",
+          "value": "Android 10.0 - این نسخه برای زمانی است که این گوشی معرفی شده است و ممکن است در هنگام خرید شما، آپدیت جدیدتری برای آن آمده باشد و به اندروید ورژن بالاتر ارتقا پیدا کند",
+          "name-en": "system operator"
+        },
+        {
+          "id": 5,
+          "name-fa": "ابعاد / وزن",
+          "name-en": "weight",
+          "value": "1677962863317× 9 میلی متر / 194 گرم"
+        },
+        {
+          "id": 6,
+          "name-fa": "تاریخ معرفی",
+          "name-en": "release date",
+          "value": "مهرماه 1400"
+        },
+        {
+          "id": 7,
+          "name-fa": "حافظه داخلی",
+          "value": "32 گیگابایت",
+          "name-en": "storage"
+        },
+        {
+          "id": 8,
+          "name-fa": "حافظه RAM",
+          "value": "3 گیگابایت",
+          "name-en": "ram"
+        },
+        {
+          "id": 9,
+          "name-fa": "امکان افزایش حافظه / نوع کارت حافظه",
+          "value": "دارد / microSDXC",
+          "name-en": "external storage"
+        },
+        {
+          "id": 10,
+          "name-fa": "نوع صفحه نمایش",
+          "value": "IPS LCD / لمسی خازنی",
+          "name-en": "screen model"
+        },
+        {
+          "id": 11,
+          "name-fa": "تعداد رنگ / رزولوشن",
+          "value": "16 میلیون رنگ، 1600×720 پیکسل",
+          "name-en": "screen color"
+        },
+        {
+          "id": 12,
+          "name-fa": "شبکه اینترنت",
+          "value": "4.5G",
+          "name-en": "internet"
+        }
+      ],
+      "description": {
+        "en": "<p>To date, Xiaomi's Poco series of mid-range smartphones have been able to perform well by taking advantage of appropriate and acceptable technical specifications.<br><br>One of the affordable phones of this company, which has tried to be equipped with appropriate technical specifications according to the considered price, Xiaomi Poco C31 is also one of the new mid-range smartphones of this company.<br><br>This phone is equipped with a 6.53-inch screen with a resolution of 720 x 1600 pixels IPS. A screen that can display 269 pixels per inch.<br><br> The design of the screen also uses WaterDrop notch, which has a notch drop at the top and center of the screen, a 5-megapixel selfie camera sensor.<br><br>On the back, there are three camera sensors for this mid-range phone. A 13-megapixel main camera sensor with f / 2.2 aperture, along with two 2-megapixel macro sensors and depth sensors, make up the Xiaomi Poco C31 triple camera sensors.<br><br>The presence of MediaTek MT6765G Helio G35 processor (MediaTek MT6765G Helio G35) has also caused you to see proper and acceptable performance of this handset in daily activities and games.<br><br>A suitable and of course powerful 5000 mAh battery will be able to provide a useful life (standby time) of two days for each 100% charge.</p>",
+        "fa": "<p>سری <strong>poco </strong>گوشی‌های هوشمند میان‌رده شیائومی تا به امروز توانسته‌اند با بهره بردن از مشخصات فنی مناسب و قابل قبول، عملکرد خوبی داشته باشند.</p><p><br></p><p>یکی از گوشی‌های مقرون به‌صرفه این شرکت که سعی شده است با توجه به قیمت در نظر گرفته شده به مشخصات فنی مناسبی مجهز شده باشد، شیائومی <strong>Poco C31</strong> هم یکی از گوشی‌های هوشمند میان‌رده جدید این شرکت است.</p><p><br></p><p><em>این گوشی به صفحه‌نمایش با ابعاد 6.53 اینچ و رزولوشن 720×1600 پیکسل از نوع IPS مجهز شده است. صفحه‌نمایشی که در هر اینچ توانایی نمایش 269 پیکسل را دارد.</em></p><p><br></p><p><span style=\"font-family: Georgia, serif;\">برای طراحی صفحه‌نمایش هم از ناچ واتردراپ استفاده شده است که بریدگی قطره‌ای شکل ناچ در قسمت بالایی و مرکزی صفحه‌نمایش، سنسور دوربین سلفی با رزولوشن 5 مگاپیکسل را در خود جای داده است.</span></p><p><br></p><p><span style=\"background-color: rgb(76, 17, 48);\">در قسمت پشتی هم سه سنسور دوربین برای این گوشی میان‌رده در نظر گرفته شده است. یک سنسور دوربین اصلی با رزولوشن 13 مگاپیکسل و گشودگی دریچه دیافراگم f/2.2 در کنار دو سنسور با رزولوشن 2 مگاپیکسل از نوع ماکرو و سنجش عمق، سنسور‌های دوربین سه‌گانه شیائومی Poco C31 را تشکیل می‌دهند.</span></p><p><br></p><p>حضور پردازنده هلیو G35 شرکت مدیاتک (MediaTek MT6765G Helio G35 ) هم سبب شده تا اجرای مناسب و قابل قبولی را از این گوشی میان‌رده در فعالیت‌های روزمره و اجرای بازی‌ها شاهد باشید.</p><p><br></p><h2>باتری مناسب و البته قدرتمند 5000 میل‌آمپر‌ساعت هم توانایی ارائه طول عمر مفید (زمان آماده به‌کار) دو روز را به ازای هر بار شارژ 100 درصدی خواهد داشت.</h2>"
+      },
+      "likes": [],
+      "count": 10,
+      "createdAt": 1677962863317,
+      "updatedAt": 1677962863317,
+      "category-id": "3",
+      "comments": [
+        {
+          "id": 1,
+          "user-id": 1,
+          "comment": "خیلی گوشی خوبی هست . من که راضی ام . مرسی از شما",
+          "createdAt": 1677962863317
+        },
+        {
+          "id": 2,
+          "user-id": 2,
+          "comment": "عالیه!!!!!!!!!!!!!!!!",
+          "createdAt": 1677962863317
+        }
+      ],
+      "id": 14
+    },
+    {
+      "product-name-en": "Huawei nova 8i",
+      "product-name-fa": "هواوی مدل Nova 8i",
+      "images": [
+        "2aae41239380a6dfbc315a53293cf180",
+        "330a1bc19cd2f3db73e09230877d6762",
+        "fbc7b1727cfe3629149a1e6ceba91f0f",
+        "75f94af81bf2a3aa43b2279093161c2c"
+      ],
+      "thumbnail": "2aae41239380a6dfbc315a53293cf180",
+      "colors": [
+        {
+          "id": 0,
+          "name-en": "Black",
+          "name-fa": "سیاه",
+          "hex": "#000000"
+        },
+        {
+          "id": 1,
+          "name-en": "White",
+          "name-fa": "سفید",
+          "hex": "#FFFFFF"
+        }
+      ],
+      "price": {
+        "currency": "IRR",
+        "amount": 6999000,
+        "amount-discount": "0"
+      },
+      "guarantees": [
+        {
+          "id": 0,
+          "name-en": "18 months after-sales warranty of Awang CO",
+          "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+        }
+      ],
+      "properties": [
+        {
+          "id": 0,
+          "name-en": "Screen Size",
+          "name-fa": "سایز صفحه نمایش",
+          "value": "6.67 inches"
+        },
+        {
+          "id": 1,
+          "name-en": "Screen Resolution",
+          "name-fa": "نسبت صفحه نمایش",
+          "value": "1080 x 2376 pixels"
+        },
+        {
+          "id": 2,
+          "name-en": "Camera Quality",
+          "name-fa": "کیفیت دوربین",
+          "value": "64 MegaPixels + 8 MegaPixels + 2 MegaPixels + 2 MegaPixels"
+        },
+        {
+          "id": 3,
+          "name-en": "Internet Network",
+          "name-fa": "شبکه اینترنت",
+          "value": "4.5G"
+        },
+        {
+          "id": 4,
+          "name-en": "Battery Capacity",
+          "name-fa": "ظرفیت باتری",
+          "value": "4300 mAh"
+        }
+      ],
+      "description": {
+        "en": "Huawei Nova 8i dual-SIM mobile phone - 128 GB capacity - 8 GB RAM",
+        "fa": "گوشی موبايل هواوی مدل Nova 8i دو سیم‌ کارت - ظرفیت 128 گیگابایت - رم 8 گیگابایت"
+      },
+      "likes": [],
+      "count": 58,
+      "updatedAt": 1677962863317,
+      "category-id": "5",
+      "comments": [
+        {
+          "id": 1,
+          "user-id": 1,
+          "comment": "سلام ، لطفا رم 8 رنگ نیلی رو موجود کنید",
+          "createdAt": 1677962863317
+        },
+        {
+          "id": 2,
+          "user-id": 2,
+          "comment": "بهترین گوشی",
+          "createdAt": 1677962863317
+        }
+      ],
+      "createdAt": 1677962863317,
+      "id": 15
+    },
+    {
+      "product-name-en": "Huawei nova 8",
+      "product-name-fa": "هواوی مدل Nova 8",
+      "images": [
+        "ea541ab24c3b29920f67a73b943f2a91",
+        "552c19c56fc61c5e3f9fff32f8eaaefd",
+        "ca470e570e2bff8bc5418827f910383f",
+        "fc7655c9c384b3b878387a3c1b62d53c",
+        "66388eac38e69af0a89e4f2488b3cd5c"
+      ],
+      "thumbnail": "ca470e570e2bff8bc5418827f910383f",
+      "colors": [
+        {
+          "id": 0,
+          "name-en": "Black",
+          "name-fa": "سیاه",
+          "hex": "#000000"
+        },
+        {
+          "id": 1,
+          "name-en": "Green",
+          "name-fa": "سبز",
+          "hex": "#0FFF00"
+        }
+      ],
+      "price": {
+        "currency": "IRR",
+        "amount": 9785000,
+        "amount-discount": "0"
+      },
+      "guarantees": [
+        {
+          "id": 0,
+          "name-en": "18 months after-sales warranty of Awang CO",
+          "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+        }
+      ],
+      "properties": [
+        {
+          "id": 0,
+          "name-en": "Screen Size",
+          "name-fa": "سایز صفحه نمایش",
+          "value": "6.57 inches"
+        },
+        {
+          "id": 1,
+          "name-en": "Screen Resolution",
+          "name-fa": "نسبت صفحه نمایش",
+          "value": "1080 x 2340 pixels"
+        },
+        {
+          "id": 2,
+          "name-en": "Camera Quality",
+          "name-fa": "کیفیت دوربین",
+          "value": "64 MegaPixels + 8 MegaPixels + 2 MegaPixels + 2 MegaPixels"
+        },
+        {
+          "id": 3,
+          "name-en": "Internet Network",
+          "name-fa": "شبکه اینترنت",
+          "value": "4.5G"
+        },
+        {
+          "id": 4,
+          "name-en": "Battery Capacity",
+          "name-fa": "ظرفیت باتری",
+          "value": "3800 mAh"
+        }
+      ],
+      "description": {
+        "en": "Huawei Nova 8 dual-SIM mobile phone - 128 GB capacity - 8 GB RAM",
+        "fa": "گوشی موبايل هواوی مدل Nova 8 دو سیم‌ کارت - ظرفیت 128 گیگابایت- رم 8 گیگابایت"
+      },
+      "likes": [],
+      "count": 66,
+      "createdAt": 1677962863317,
+      "updatedAt": 1677962863317,
+      "category-id": "5",
+      "comments": [
+        {
+          "id": 1,
+          "user-id": 1,
+          "comment": "لطفا دوباره رنگ صورتی رو موجود کنید",
+          "createdAt": 1677962863317
+        },
+        {
+          "id": 2,
+          "user-id": 2,
+          "comment": "عالیه اصن رو دستش نیست",
+          "createdAt": 1677962863317
+        }
+      ],
+      "id": 16
+    },
+    {
+      "product-name-en": "Huawei Y7a",
+      "product-name-fa": "هواوی مدل Y7a",
+      "images": [
+        "34100d7ccd2e545609eacec1053d7f72",
+        "9fede749aac255faeca28ad7c44e1175",
+        "8d4c29e93f577f238ce26535ecb6d0dd",
+        "6d8fab68e29cfa5f2ffef424c00c58b8",
+        "78f435c51ca8b7e405d8b015d5b3597b"
+      ],
+      "thumbnail": "9fede749aac255faeca28ad7c44e1175",
+      "colors": [
+        {
+          "id": 0,
+          "name-en": "Black",
+          "name-fa": "سیاه",
+          "hex": "#000000"
+        },
+        {
+          "id": 1,
+          "name-en": "Dark Blue",
+          "name-fa": "آبی تیره",
+          "hex": "#050078"
+        }
+      ],
+      "price": {
+        "currency": "IRR",
+        "amount": 10712000,
+        "amount-discount": "0"
+      },
+      "guarantees": [
+        {
+          "id": 0,
+          "name-en": "18 months after-sales warranty of Awang CO",
+          "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+        }
+      ],
+      "properties": [
+        {
+          "id": 0,
+          "name-en": "Screen Size",
+          "name-fa": "سایز صفحه نمایش",
+          "value": "6.67 inches"
+        },
+        {
+          "id": 1,
+          "name-en": "Screen Resolution",
+          "name-fa": "نسبت صفحه نمایش",
+          "value": "1080 x 2400 pixels"
+        },
+        {
+          "id": 2,
+          "name-en": "Camera Quality",
+          "name-fa": "کیفیت دوربین",
+          "value": "64 MegaPixels + 8 MegaPixels + 2 MegaPixels + 2 MegaPixels"
+        },
+        {
+          "id": 3,
+          "name-en": "Internet Network",
+          "name-fa": "شبکه اینترنت",
+          "value": "4.5G"
+        },
+        {
+          "id": 4,
+          "name-en": "Battery Capacity",
+          "name-fa": "ظرفیت باتری",
+          "value": "5000 mAh"
+        }
+      ],
+      "description": {
+        "en": "Huawei Y7a dual SIM mobile phone - 128 GB capacity - 4 GB RAM",
+        "fa": "گوشی موبايل هواوی مدل Y7a دو سيم کارت - ظرفیت 128 گیگابایت - رم 4 گیگابایت"
+      },
+      "likes": [
+        1
+      ],
+      "count": 37,
+      "createdAt": 1677962863317,
+      "updatedAt": 1677962863317,
+      "category-id": "5",
+      "comments": [
+        {
+          "id": 1,
+          "user-id": 1,
+          "comment": "كاملا به دوستاني كه براي بازي و كارهاي سنگين به دنبال موبايلي با قيمت مناسب و راندمان بالا ميگردند توصيه مي شود.",
+          "createdAt": 1677962863317
+        },
+        {
+          "id": 2,
+          "user-id": 2,
+          "comment": "کاملا به نسبت قیمت میارزه",
+          "createdAt": 1677962863317
+        }
+      ],
+      "id": 17
+    },
+    {
+      "product-name-en": "Huawei P50 Pocket",
+      "product-name-fa": "هواوی مدل P50 Pocket",
+      "images": [
+        "1ede2b31e382bb4e60686021531b506a",
+        "50f7b67db335a5ed0b1cfa75dabdb607",
+        "2d2580bcf207b8a884cbc51498ae6410",
+        "dee85e7a1bdbf65e0f1e044ab384bf8b",
+        "37250c991af617cd52c121440f9e357b",
+        "41c6943633c129892fad90bf2a83c107"
+      ],
+      "thumbnail": "1ede2b31e382bb4e60686021531b506a",
+      "colors": [
+        {
+          "id": 0,
+          "name-en": "Black",
+          "name-fa": "سیاه",
+          "hex": "#000000"
+        },
+        {
+          "id": 1,
+          "name-en": "Dark Blue",
+          "name-fa": "آبی تیره",
+          "hex": "#050078"
+        }
+      ],
+      "price": {
+        "currency": "IRR",
+        "amount": 6666000,
+        "amount-discount": "0"
+      },
+      "guarantees": [
+        {
+          "id": 0,
+          "name-en": "18 months after-sales warranty of Awang CO",
+          "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+        }
+      ],
+      "properties": [
+        {
+          "id": 0,
+          "name-en": "Screen Size",
+          "name-fa": "سایز صفحه نمایش",
+          "value": "6.9 inches"
+        },
+        {
+          "id": 1,
+          "name-en": "Screen Resolution",
+          "name-fa": "نسبت صفحه نمایش",
+          "value": "1188 x 2790 pixels"
+        },
+        {
+          "id": 2,
+          "name-en": "Camera Quality",
+          "name-fa": "کیفیت دوربین",
+          "value": "40 MegaPixels + 32 MegaPixels + 13 MegaPixels"
+        },
+        {
+          "id": 3,
+          "name-en": "Internet Network",
+          "name-fa": "شبکه اینترنت",
+          "value": "4G"
+        },
+        {
+          "id": 4,
+          "name-en": "Battery Capacity",
+          "name-fa": "ظرفیت باتری",
+          "value": "4000 mAh"
+        }
+      ],
+      "description": {
+        "en": "Huawei P50 Pocket mobile phone with a capacity of 256 GB - 8 GB of RAM",
+        "fa": "گوشی موبایل هواوی مدل P50 Pocket با ظرفیت 256 گیگابایت - رم 8 گیگابایت"
+      },
+      "likes": [],
+      "count": 39,
+      "createdAt": 1677962863317,
+      "updatedAt": 1677962863317,
+      "category-id": "5",
+      "comments": [
+        {
+          "id": 1,
+          "user-id": 1,
+          "comment": "دوست دارم بخرم",
+          "createdAt": 1677962863317
+        },
+        {
+          "id": 2,
+          "user-id": 2,
+          "comment": "لطفا رنگ برنز موجود کنید",
+          "createdAt": 1677962863317
+        }
+      ],
+      "id": 18
+    },
+    {
+      "product-name-en": "Huawei nova 9 Pro",
+      "product-name-fa": "هواوی مدل Nova 9 Pro",
+      "images": [
+        "615f3266bdc3edd0a6ad4da87f49eceb",
+        "e25f8ca2064e5a5ce7e40b2d9959b463",
+        "2c69dfc4a9cf4232a66d13b55e0a83fc",
+        "49e668c14a6417365cfd945c03756c1f"
+      ],
+      "thumbnail": "2c69dfc4a9cf4232a66d13b55e0a83fc",
+      "colors": [
+        {
+          "id": 0,
+          "name-en": "Black",
+          "name-fa": "سیاه",
+          "hex": "#000000"
+        },
+        {
+          "id": 1,
+          "name-en": "Yellow",
+          "name-fa": "زرد",
+          "hex": "#FFFB00"
+        }
+      ],
+      "price": {
+        "currency": "IRR",
+        "amount": 8563000,
+        "amount-discount": "0"
+      },
+      "guarantees": [
+        {
+          "id": 0,
+          "name-en": "18 months after-sales warranty of Awang CO",
+          "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+        }
+      ],
+      "properties": [
+        {
+          "id": 0,
+          "name-en": "Screen Size",
+          "name-fa": "سایز صفحه نمایش",
+          "value": "6.72 inches"
+        },
+        {
+          "id": 1,
+          "name-en": "Screen Resolution",
+          "name-fa": "نسبت صفحه نمایش",
+          "value": "1236 x 2676 pixels"
+        },
+        {
+          "id": 2,
+          "name-en": "Camera Quality",
+          "name-fa": "کیفیت دوربین",
+          "value": "40 MegaPixels + 8 MegaPixels + 2 MegaPixels + 2 MegaPixels"
+        },
+        {
+          "id": 3,
+          "name-en": "Internet Network",
+          "name-fa": "شبکه اینترنت",
+          "value": "5G"
+        },
+        {
+          "id": 4,
+          "name-en": "Battery Capacity",
+          "name-fa": "ظرفیت باتری",
+          "value": "4000 mAh"
+        }
+      ],
+      "description": {
+        "en": "Huawei Nova 9 Pro dual SIM mobile phone - 256 GB capacity - 8 GB RAM",
+        "fa": "گوشی موبايل هواوی مدل Nova 9 Pro دو سیم‌ کارت - ظرفیت 256 گیگابایت- رم 8 گیگابایت"
+      },
+      "likes": [],
+      "count": 8,
+      "createdAt": 1677962863317,
+      "updatedAt": 1677962863317,
+      "category-id": "5",
+      "comments": [
+        {
+          "id": 1,
+          "user-id": 1,
+          "comment": "در مقایسه با رقیبانش بسیار خوب",
+          "createdAt": 1677962863317
+        },
+        {
+          "id": 2,
+          "user-id": 2,
+          "comment": "حیف تک سیمکارته فقط",
+          "createdAt": 1677962863317
+        }
+      ],
+      "id": 19
+    },
+    {
+      "product-name-en": "Huawei nova Y60",
+      "product-name-fa": "هواوی مدل Nova Y60",
+      "images": [
+        "44da6f93e044c2f739eff81a758edca9"
+      ],
+      "thumbnail": "44da6f93e044c2f739eff81a758edca9",
+      "colors": [
+        {
+          "id": 0,
+          "name-en": "White",
+          "name-fa": "سفید",
+          "hex": "#FFFFFF"
+        },
+        {
+          "id": 1,
+          "name-en": "Yellow",
+          "name-fa": "زرد",
+          "hex": "#FFFB00"
+        }
+      ],
+      "price": {
+        "currency": "IRR",
+        "amount": 5888000,
+        "amount-discount": "0"
+      },
+      "guarantees": [
+        {
+          "id": 0,
+          "name-en": "18 months after-sales warranty of Awang CO",
+          "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+        }
+      ],
+      "properties": [
+        {
+          "id": 0,
+          "name-en": "Screen Size",
+          "name-fa": "سایز صفحه نمایش",
+          "value": "6.6 inches"
+        },
+        {
+          "id": 1,
+          "name-en": "Screen Resolution",
+          "name-fa": "نسبت صفحه نمایش",
+          "value": "1600 x 720 pixels"
+        },
+        {
+          "id": 2,
+          "name-en": "Camera Quality",
+          "name-fa": "کیفیت دوربین",
+          "value": "13 MegaPixels + 5 MegaPixels + 2"
+        },
+        {
+          "id": 3,
+          "name-en": "Internet Network",
+          "name-fa": "شبکه اینترنت",
+          "value": "4G"
+        },
+        {
+          "id": 4,
+          "name-en": "Battery Capacity",
+          "name-fa": "ظرفیت باتری",
+          "value": "5000 mAh"
+        }
+      ],
+      "description": {
+        "en": "Huawei Nova 9 Pro dual SIM mobile phone - 256 GB capacity - 8 GB RAM",
+        "fa": "گوشی موبايل هواوی مدل Nova 9 Pro دو سیم‌ کارت - ظرفیت 256 گیگابایت- رم 8 گیگابایت"
+      },
+      "likes": [],
+      "count": 6,
+      "createdAt": 1677962863317,
+      "updatedAt": 1677962863317,
+      "category-id": "5",
+      "comments": [
+        {
+          "id": 1,
+          "user-id": 1,
+          "comment": "اصلا ارزش خرید نداره",
+          "createdAt": 1677962863317
+        },
+        {
+          "id": 2,
+          "user-id": 2,
+          "comment": "گارانتی از جای دیگ ندارین؟",
+          "createdAt": 1677962863317
+        }
+      ],
+      "id": 20
+    },
+    {
+      "product-name-en": "Huawei P50 Pro",
+      "product-name-fa": "هواوی مدل P50 Pro ",
+      "images": [
+        "7f3388226a6de28039799904bb40572e",
+        "bdc824da39244708efa156842990eb85",
+        "e44ff6263a18e986ce08b04df8e15028"
+      ],
+      "thumbnail": "7f3388226a6de28039799904bb40572e",
+      "colors": [
+        {
+          "id": 0,
+          "name-en": "Blue",
+          "name-fa": "آبی",
+          "hex": "#00FFF3"
+        },
+        {
+          "id": 1,
+          "name-en": "Yellow",
+          "name-fa": "زرد",
+          "hex": "#FFFB00"
+        }
+      ],
+      "price": {
+        "currency": "IRR",
+        "amount": 9999000,
+        "amount-discount": "0"
+      },
+      "guarantees": [
+        {
+          "id": 0,
+          "name-en": "18 months after-sales warranty of Awang CO",
+          "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+        }
+      ],
+      "properties": [
+        {
+          "id": 0,
+          "name-en": "Screen Size",
+          "name-fa": "سایز صفحه نمایش",
+          "value": "6.6 inches"
+        },
+        {
+          "id": 1,
+          "name-en": "Screen Resolution",
+          "name-fa": "نسبت صفحه نمایش",
+          "value": "1228 x 2700 pixels"
+        },
+        {
+          "id": 2,
+          "name-en": "Camera Quality",
+          "name-fa": "کیفیت دوربین",
+          "value": "50 MegaPixels + 64 MegaPixels + 13 MegaPixels + 40 MegaPixels"
+        },
+        {
+          "id": 3,
+          "name-en": "Internet Network",
+          "name-fa": "شبکه اینترنت",
+          "value": "4.5G"
+        },
+        {
+          "id": 4,
+          "name-en": "Battery Capacity",
+          "name-fa": "ظرفیت باتری",
+          "value": "4360 mAh"
+        }
+      ],
+      "description": {
+        "en": "Huawei P50 Pro dual SIM mobile phone - 256 GB capacity - 8 GB RAM",
+        "fa": "گوشی موبايل هواوی مدل P50 Pro دو سیم کارت - ظرفیت 256 گیگابایت - رم 8 گیگابایت"
+      },
+      "likes": [],
+      "count": 32,
+      "createdAt": 1677962863317,
+      "updatedAt": 1677962863317,
+      "category-id": 5,
+      "comments": [
+        {
+          "id": 1,
+          "user-id": 1,
+          "comment": "چه غولیه این گوشی! یعنی ممکنه دوباره پرچمدارای هوآوی رو در ایران ببینیم",
+          "createdAt": 1677962863317
+        },
+        {
+          "id": 2,
+          "user-id": 2,
+          "comment": " بهتری صفحه نمایش و دوربین را دارد",
+          "createdAt": 1677962863317
+        }
+      ],
+      "id": 21
+    }
+  ],
+  "category": [
+    {
+      "name-en": "apple",
+      "name-fa": "اپل",
+      "icon": "6dd6687d2da158d1c31b8c7b28645243",
+      "id": 1
+    },
+    {
+      "name-en": "samsung",
+      "name-fa": "سامسونگ",
+      "createdAt": 123456,
+      "icon": "be697ec7c748046885322444973ea51e",
+      "id": 2
+    },
+    {
+      "name-en": "xiaomi",
+      "name-fa": "شیائومی",
+      "createdAt": 123456,
+      "icon": "4d1f6de143959b756c8ae409ad544740",
+      "id": 3
+    },
+    {
+      "name-en": "nokia",
+      "name-fa": "نوکیا",
+      "createdAt": 123456,
+      "icon": "500c5b985ac1382b877bfbba2d957b85",
+      "id": 4
+    },
+    {
+      "name-en": "huawei",
+      "name-fa": "هواوی",
+      "createdAt": 123456,
+      "icon": "257d580b36b6d0a71c652c55499cd81f",
+      "id": 5
+    },
+    {
+      "name-en": "lg",
+      "name-fa": "ال جی",
+      "createdAt": 123456,
+      "icon": "5f64378b18ea20006895dc8dc584bbc8",
+      "id": 6
+    },
+    {
+      "name-en": "gplus",
+      "name-fa": "جی پلاس",
+      "createdAt": 123456,
+      "icon": "6437c7ab807b047176c449bbc68115eb",
+      "id": 7
+    },
+    {
+      "name-en": "glx",
+      "name-fa": "جی ال ایکس",
+      "createdAt": 123456,
+      "icon": "1a96203becbe9f4982da4348c657ddba",
+      "id": 9
+    },
+    {
+      "name-en": "blackberry",
+      "name-fa": "بلک بری",
+      "createdAt": 123456,
+      "icon": "9eb38520ce90b497348e9e7b3a4e7c7b",
+      "id": 10
+    },
+    {
+      "name-en": "poco",
+      "name-fa": "پوکو",
+      "icon": "3996ecd68009ba6385ab872431071945",
+      "createdAt": 1677962863317,
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "username": "hamidreza@gmail.com",
+      "firstName": "حمیدرضا",
+      "lastName": "مهارلو",
+      "password": "123456Aa%",
+      "email": "test@gmail.com",
+      "phone": "09384141273",
+      "address": "تاچارا",
+      "city": "شیراز",
+      "state": "فارس",
+      "country": "ایران",
+      "zip": "7157744665",
+      "role": "admin",
+      "createdAt": 1222,
+      "id": 1
+    },
+    {
+      "username": "mohammad@gmail.com",
+      "firstName": "محمد حسین",
+      "lastName": "صدارت",
+      "password": "123456Aa%",
+      "email": "mohammad@gmail.com",
+      "phone": "09177777777",
+      "address": "قصرالدست",
+      "city": "شیراز",
+      "state": "فارس",
+      "country": "ایران",
+      "zip": "7157777777",
+      "role": "user",
+      "createdAt": 123,
+      "id": 2
+    },
+    {
+      "firstName": "شراره ",
+      "lastName": "رستم نیاکان ",
+      "state": "کردستان",
+      "city": "سنندج",
+      "address": "خانه های سازمانی بلوک 117",
+      "zip": "1234567891",
+      "phone": "09226067462",
+      "email": "shariniki2017@gmail.com",
+      "password": "Shiraz@1370",
+      "role": "user",
+      "username": "shariniki2017@gmail.com",
+      "createdAt": 1678984196546,
+      "id": 3
+    }
+  ],
+  "orders": [
+    {
+      "firstName": "حمیدرضا",
+      "lastName": "مهارلو",
+      "phone": "09384141273",
+      "email": "test@gmail.com",
+      "city": "شیراز",
+      "state": "فارس",
+      "address": "تاچارا",
+      "zip": "7157744665",
+      "deliveryDate": {
+        "day": 26,
+        "month": "اسفند",
+        "monthIndex": 12,
+        "year": 1401
+      },
+      "user-id": 1,
+      "deliverAt": 1678637266014,
+      "totalPrice": 15898000,
+      "products": [
+        {
+          "thumbnail": "0d3e2fd8058c270ddfafe68035e482c8",
+          "price": {
+            "currency": "IRR",
+            "amount": 8099000,
+            "amount-discount": "0"
+          },
+          "product-name-fa": "سامسونگ مدل گلکسی A52",
+          "colors": {
+            "id": 1,
+            "name-en": "Blue",
+            "name-fa": "آبی",
+            "hex": "#00FFF3"
+          },
+          "guarantees": {
+            "id": 0,
+            "name-en": "18 months after-sales warranty of Awang CO",
+            "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+          },
+          "amount": 1,
+          "id": "41Blue",
+          "productId": 41
+        },
+        {
+          "thumbnail": "eeb387648839e0f8160dd46f5df934dd",
+          "price": {
+            "currency": "IRR",
+            "amount": 7799000,
+            "amount-discount": "0"
+          },
+          "product-name-fa": "شیائومی Mi 11 Lite - 4G",
+          "colors": {
+            "id": 1,
+            "name-en": "Dark Blue",
+            "name-fa": "آبی تیره",
+            "hex": "#050078"
+          },
+          "guarantees": {
+            "id": 0,
+            "name-en": "18 months after-sales warranty of Awang CO",
+            "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+          },
+          "amount": 1,
+          "id": "10Dark Blue",
+          "productId": 10
+        }
+      ],
+      "status": "shipped",
+      "createdAt": 1678637175938,
+      "id": 1
+    },
+    {
+      "firstName": "محمد حسین",
+      "lastName": "صدارت",
+      "phone": "09177777777",
+      "email": "mohammad@gmail.com",
+      "city": "شیراز",
+      "state": "فارس",
+      "address": "قصرالدست",
+      "zip": "7157777777",
+      "deliveryDate": {
+        "day": 26,
+        "month": "اسفند",
+        "monthIndex": 12,
+        "year": 1401
+      },
+      "user-id": 2,
+      "deliverAt": "",
+      "totalPrice": 15811000,
+      "products": [
+        {
+          "thumbnail": "9fede749aac255faeca28ad7c44e1175",
+          "price": {
+            "currency": "IRR",
+            "amount": 10712000,
+            "amount-discount": "0"
+          },
+          "product-name-fa": "هواوی مدل Y7a",
+          "colors": {
+            "id": 1,
+            "name-en": "Dark Blue",
+            "name-fa": "آبی تیره",
+            "hex": "#050078"
+          },
+          "guarantees": {
+            "id": 0,
+            "name-en": "18 months after-sales warranty of Awang CO",
+            "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+          },
+          "amount": 1,
+          "id": "17Dark Blue",
+          "productId": 17
+        },
+        {
+          "thumbnail": "9d461a57cfcb0b8deb6fbf5e26de418d",
+          "price": {
+            "currency": "IRR",
+            "amount": 5099000,
+            "amount-discount": "0"
+          },
+          "product-name-fa": "شیائومی Redmi Note 11",
+          "colors": {
+            "id": 1,
+            "name-en": "Blue",
+            "name-fa": "آبی",
+            "hex": "#00FFF3"
+          },
+          "guarantees": {
+            "id": 0,
+            "name-en": "18 months after-sales warranty of Awang CO",
+            "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+          },
+          "amount": 1,
+          "id": "12Blue",
+          "productId": 12
+        }
+      ],
+      "status": "pending",
+      "createdAt": 1678638162710,
+      "id": 2
+    },
+    {
+      "firstName": "حمیدرضا",
+      "lastName": "مهارلو",
+      "phone": "09384141273",
+      "email": "test@gmail.com",
+      "city": "شیراز",
+      "state": "فارس",
+      "address": "تاچارا",
+      "zip": "7157744665",
+      "deliveryDate": {
+        "day": 26,
+        "month": "اسفند",
+        "monthIndex": 12,
+        "year": 1401
+      },
+      "user-id": 1,
+      "deliverAt": 1678703145532,
+      "totalPrice": 8099000,
+      "products": [
+        {
+          "thumbnail": "0d3e2fd8058c270ddfafe68035e482c8",
+          "price": {
+            "currency": "IRR",
+            "amount": 8099000,
+            "amount-discount": "0"
+          },
+          "product-name-fa": "سامسونگ مدل گلکسی A52",
+          "colors": {
+            "id": 1,
+            "name-en": "Blue",
+            "name-fa": "آبی",
+            "hex": "#00FFF3"
+          },
+          "guarantees": {
+            "id": 0,
+            "name-en": "18 months after-sales warranty of Awang CO",
+            "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+          },
+          "amount": 1,
+          "id": "41Blue",
+          "productId": 41
+        }
+      ],
+      "status": "shipped",
+      "createdAt": 1678647895279,
+      "id": 4
+    },
+    {
+      "firstName": "محمد حسین",
+      "lastName": "صدارت",
+      "phone": "09177777777",
+      "email": "mohammad@gmail.com",
+      "city": "شیراز",
+      "state": "فارس",
+      "address": "قصرالدست",
+      "zip": "7157777777",
+      "deliveryDate": {
+        "day": 27,
+        "month": "اسفند",
+        "monthIndex": 12,
+        "year": 1401
+      },
+      "user-id": 2,
+      "deliverAt": "",
+      "totalPrice": 8659000,
+      "products": [
+        {
+          "thumbnail": "1dea7b35ae49cc79fc923323f1dc67ed",
+          "price": {
+            "currency": "IRR",
+            "amount": 8659000,
+            "amount-discount": "0"
+          },
+          "product-name-fa": "شیائومی مدل Poco F3 5G",
+          "colors": {
+            "id": 1,
+            "name-en": "Green",
+            "name-fa": "سبز",
+            "hex": "#0FFF00"
+          },
+          "guarantees": {
+            "id": 0,
+            "name-en": "18 months after-sales warranty of Awang CO",
+            "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+          },
+          "amount": 1,
+          "id": "11Green",
+          "productId": 11
+        }
+      ],
+      "status": "pending",
+      "createdAt": 1678888102799,
+      "id": 5
+    },
+    {
+      "firstName": "حمیدرضا",
+      "lastName": "مهارلو",
+      "phone": "09384141273",
+      "email": "test@gmail.com",
+      "city": "شیراز",
+      "state": "فارس",
+      "address": "تاچارا",
+      "zip": "7157744665",
+      "deliveryDate": {
+        "day": 27,
+        "month": "اسفند",
+        "monthIndex": 12,
+        "year": 1401
+      },
+      "user-id": 1,
+      "deliverAt": "",
+      "totalPrice": 8563000,
+      "products": [
+        {
+          "thumbnail": "2c69dfc4a9cf4232a66d13b55e0a83fc",
+          "price": {
+            "currency": "IRR",
+            "amount": 8563000,
+            "amount-discount": "0"
+          },
+          "product-name-fa": "هواوی مدل Nova 9 Pro",
+          "colors": {
+            "id": 1,
+            "name-en": "Yellow",
+            "name-fa": "زرد",
+            "hex": "#FFFB00"
+          },
+          "guarantees": {
+            "id": 0,
+            "name-en": "18 months after-sales warranty of Awang CO",
+            "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+          },
+          "amount": 1,
+          "id": "19Yellow",
+          "productId": 19
+        }
+      ],
+      "status": "pending",
+      "createdAt": 1678888998680,
+      "id": 6
+    },
+    {
+      "firstName": "شراره ",
+      "lastName": "رستم نیاکان ",
+      "phone": "09226067462",
+      "email": "shariniki2017@gmail.com",
+      "city": "سنندج",
+      "state": "کردستان",
+      "address": "خانه های سازمانی بلوک 117",
+      "zip": "1234567891",
+      "deliveryDate": {
+        "day": 28,
+        "month": "اسفند",
+        "monthIndex": 12,
+        "year": 1401
+      },
+      "user-id": 3,
+      "deliverAt": 1678984833815,
+      "totalPrice": 9999000,
+      "products": [
+        {
+          "thumbnail": "7f3388226a6de28039799904bb40572e",
+          "product-name-fa": "هواوی مدل P50 Pro ",
+          "price": {
+            "currency": "IRR",
+            "amount": 9999000,
+            "amount-discount": "0"
+          },
+          "colors": {
+            "id": 1,
+            "name-en": "Yellow",
+            "name-fa": "زرد",
+            "hex": "#FFFB00"
+          },
+          "guarantees": {
+            "id": 0,
+            "name-en": "18 months after-sales warranty of Awang CO",
+            "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+          },
+          "amount": 1,
+          "id": "21Yellow",
+          "productId": 21
+        }
+      ],
+      "status": "shipped",
+      "createdAt": 1678984518754,
+      "id": 7
+    },
+    {
+      "firstName": "حمیدرضا",
+      "lastName": "مهارلو",
+      "phone": "09384141273",
+      "email": "test@gmail.com",
+      "city": "شیراز",
+      "state": "فارس",
+      "address": "تاچارا",
+      "zip": "7157744665",
+      "deliveryDate": {
+        "day": 29,
+        "month": "اسفند",
+        "monthIndex": 12,
+        "year": 1401
+      },
+      "user-id": 1,
+      "deliverAt": 1679031750090,
+      "totalPrice": 74445000,
+      "products": [
+        {
+          "thumbnail": "8f9ba381db9744ddc46c788e94a96a6f",
+          "product-name-fa": "شیائومی Mi 11i - 5G",
+          "price": {
+            "currency": "IRR",
+            "amount": 14889000,
+            "amount-discount": "0"
+          },
+          "colors": {
+            "id": 1,
+            "name-en": "Blue",
+            "name-fa": "آبی",
+            "hex": "#00FFF3"
+          },
+          "guarantees": {
+            "id": 0,
+            "name-en": "18 months after-sales warranty of Awang CO",
+            "name-fa": "18 ماه گارانتی پس از فروش شرکت آونگ"
+          },
+          "amount": 5,
+          "id": "9Blue",
+          "productId": 9
+        }
+      ],
+      "status": "shipped",
+      "createdAt": 1679031539999,
+      "id": 8
+    }
+  ],
+  "newsletters": [
+    {
+      "subscribe": "hamidreza@gmail.com",
+      "createdAt": 1678199392738,
+      "id": 1
+    }
+  ],
+  "whoami": {}
+}

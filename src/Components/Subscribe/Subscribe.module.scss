@@ -1,0 +1,17 @@
+.subscribeContainer{
+  height: 20rem;
+  width: 98%;
+  .subscribe{
+    width: 50%;
+    margin: auto;
+    p{
+      font-size: 1.4rem;
+    }
+  }
+  .submitBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+}

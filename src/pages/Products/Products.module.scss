@@ -1,0 +1,54 @@
+@import "../../breakpoint";
+@import "../../variable";
+
+.absolute {
+  @include md {
+    position: relative;
+    min-height: 90vh;
+  }
+
+  .sort {
+    border: solid 1px gray;
+    border-radius: 8rem;
+    padding: 1rem 0;
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    @include md{
+      width: 70%;
+    }
+
+    p {
+      margin: 0;
+      font-size: 1.4rem;
+    }
+    .btn{
+      padding: .5rem;
+    }
+    .selected {
+      background-color: darken($primary,20);
+      transform:$large
+    }
+  }
+
+  .products--container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+
+    P {
+      font-size: 1.8rem;
+    }
+  }
+
+  .pagination {
+    margin: 2rem 0;
+    @include md {
+    }
+
+  }
+}
+

@@ -1,0 +1,139 @@
+@import "~slick-carousel/slick/slick.scss";
+@import "~slick-carousel/slick/slick-theme.scss";
+@import "../../breakpoint";
+
+.slick-slider {
+  height: 100%;
+
+  .slick-list {
+    height: 100%;
+
+    .slick-track {
+      .rel {
+        position: relative;
+        width: 100%;
+        height: 12rem;
+        @include md {
+          height: 30rem;
+        }
+
+        img {
+          //width: 100%;
+          height: 100%;
+          object-fit: contain;
+          @include md {
+            object-fit: fill;
+          }
+        }
+
+        .iphone {
+          direction: rtl;
+          display: flex;
+          gap: 1rem;
+          justify-content: space-around;
+          align-items: center;
+          position: absolute;
+          top: 40%;
+          right: 5%;
+          font-size: 1rem;
+          color: black;
+          @include md {
+            font-size: 1.8rem;
+            top: 40%
+          }
+
+          p {
+            margin: 0;
+          }
+
+          button {
+            font-size: .8rem;
+            padding: .7rem 1.5rem;
+            @include lg {
+              font-size: 1.4rem;
+              padding: 1rem 3rem;
+            }
+          }
+        }
+
+        .Xiaomi {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          position: absolute;
+          top: 5%;
+          right: 5%;
+          font-size: 1.2rem;
+          color: black;
+          @include md {
+            font-size: 1.8rem;
+            top: 20%
+          }
+        }
+
+        .Huawei {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          position: absolute;
+          bottom: 1.4rem;
+          right: 43%;
+          font-size: .8rem;
+          color: black;
+          direction: rtl;
+
+          p {
+            margin: 0;
+            @include lg {
+              margin-bottom: 1rem;
+            }
+          }
+
+          button {
+            font-size: .7rem;
+            padding: .3rem 2rem;
+            @include md {
+              font-size: 1.4rem;
+            }
+          }
+
+          @include md {
+            font-size: 1.8rem;
+            //top: 20%;
+            bottom: 3rem;
+            right: 40%;
+          }
+          @include lg {
+            right: 45%;
+          }
+
+        }
+      }
+
+      .xiaomi {
+        background-color: #e6e8e7;
+      }
+
+      .Iphone {
+        background-color: #fafafa;
+      }
+
+      .huawei {
+        img {
+          width: 100%;
+        }
+      }
+      .samsung {
+        img {
+          width: 100%;
+        }
+      }
+    }
+  }
+
+  .slick-dots {
+    bottom: 0;
+  }
+}

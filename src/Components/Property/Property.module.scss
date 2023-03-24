@@ -1,0 +1,36 @@
+@import "src/breakpoint";
+
+.property-wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 4rem 2rem;
+  margin-bottom: 5rem;
+
+  .property-icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-width: 15rem;
+    @include md {
+      min-width: 10rem;
+    }
+    div{
+      img{
+        width: 8rem;
+        height: 8rem;
+      }
+    }
+
+    P {
+      padding-top: 1rem;
+      font-size: 1.4rem;
+      @include md{
+        font-size: 1.6rem;
+      }
+    }
+  }
+
+}

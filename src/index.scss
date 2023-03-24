@@ -1,0 +1,51 @@
+@import "assets/allFonts/fonts.css";
+@import "customizeBootstrap";
+
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: IRANSans-web, serif;
+  scroll-behavior: smooth;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+}
+
+.modal-90w{
+  width: 90vw;
+}
+
+.loadingSpinner {
+  position: fixed; /* Stay in place */
+  z-index: 20; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100vw /* Full width */!important;
+  height: 100vh/* Full height */!important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: hideMe 2.5s forwards;
+}
+
+.loadingSpinner svg {
+  height: 10rem !important;
+}
+
+.rtl{
+  direction: rtl;
+}

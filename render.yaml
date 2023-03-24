@@ -1,0 +1,13 @@
+services:
+  - name: json-server
+    buildCommand: npm run build-json
+    startCommand: json-server --watch db.json --port $PORT
+    env:
+      - key: NODE_ENV
+        value: production
+  - name: react-app
+    buildCommand: npm run build
+    startCommand: npm run start
+    env:
+      - key: NODE_ENV
+        value: production
