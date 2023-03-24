@@ -233,7 +233,7 @@ if (process.env.NODE_ENV === 'production') {
     res.sendFile(path.join(__dirname, 'client/build/index.html'));
   });
 }
-const PORT = process.env.PORT || 3002;
+const PORT = 3002;
 
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
