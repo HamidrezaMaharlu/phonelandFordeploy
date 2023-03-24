@@ -14,7 +14,6 @@ const AUTH_JWT_OPTIONS = { expiresIn: 60 * 60 };
 const refreshTokenExpire = "1d";
 const accessTokenExpire = "1h";
 const express = require('express');
-const path = require('path');
 const app = express();
 // TODO: vaghti token nis, 200 mide
 // TODO: vaghti token nist, invalid nade (login api)
@@ -234,7 +233,7 @@ if (process.env.NODE_ENV === 'production') {
     res.sendFile(path.join(__dirname, 'client/build/index.html'));
   });
 }
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 3002;
 
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
