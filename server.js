@@ -13,8 +13,7 @@ const AUTH_JWT_REFRESH_TOKEN_SECRET = "REFRESH_TOKEN_TOP-SECRET";
 const AUTH_JWT_OPTIONS = { expiresIn: 60 * 60 };
 const refreshTokenExpire = "1d";
 const accessTokenExpire = "1h";
-const express = require('express');
-const app = express();
+
 // TODO: vaghti token nis, 200 mide
 // TODO: vaghti token nist, invalid nade (login api)
 // TODO: besorat pishfarz token baraye har api niaz nabashe vali baraye ye seri api niaz bash be sorat dasti set she
@@ -226,15 +225,3 @@ server.listen(3002, () => {
   console.log("Customized JSON-Server is running at http://localhost:3002/");
 });
 
-if (process.env.NODE_ENV === 'production') {
-  app.use(express.static(path.join(__dirname, 'client/build')));
-
-  app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, 'client/build/index.html'));
-  });
-}
-const PORT = 3002;
-
-app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
-});
