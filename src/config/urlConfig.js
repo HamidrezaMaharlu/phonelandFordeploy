@@ -1,5 +1,5 @@
 export const LOGIN = '/auth/login';
-export const IMG = 'http://localhost:3002';
+export const IMG = 'https://phonelandbackend.onrender.com';
 export const REFRESH_TOKEN_URL = '/auth/refresh-token';
 export const REGISTER = '/users';
 export const GET_PRODUCTS = '/products';

@@ -5,7 +5,7 @@ import {refreshTokenRequest} from "./refreshToken";
 
 
 
-axios.defaults.baseURL = "http://localhost:3002";
+axios.defaults.baseURL = "https://phonelandbackend.onrender.com";
 
 axios.interceptors.request.use((req) => {
     if (req.url === REFRESH_TOKEN_URL) {
