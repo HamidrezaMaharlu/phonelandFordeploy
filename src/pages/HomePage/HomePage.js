@@ -55,9 +55,9 @@ export function HomePage() {
         firstProduct.current = [...products.sortedProducts[`${selectedProducts[0]}`]]
         secondProduct.current = [...products.sortedProducts[`${selectedProducts[1]}`]]
         thirdProduct.current = [...products.sortedProducts[`${selectedProducts[2]}`]]
-        firstCategory.current = categories.find(item => item.id === +selectedProducts[0])["name-fa"]
-        secondCategory.current = categories.find(item => item.id === +selectedProducts[1])["name-fa"]
-        thirdCategory.current = categories.find(item => item.id === +selectedProducts[2])["name-fa"]
+        firstCategory.current = categories.find(item => item.id === +selectedProducts[0])?.["name-fa"]
+        secondCategory.current = categories.find(item => item.id === +selectedProducts[1])?.["name-fa"]
+        thirdCategory.current = categories.find(item => item.id === +selectedProducts[2])?.["name-fa"]
     }
 
 
