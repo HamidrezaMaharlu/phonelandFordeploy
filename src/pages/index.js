@@ -1,5 +1,6 @@
 export * from "./Basket/Basket"
 export * from "./checkout/Checkout"
+export * from "./DashBoard/Charts/Charts"
 export * from "./DashBoard/ManageCategory/ManageCategory"
 export * from "./DashBoard/ManageOrders/ManageOrders"
 export * from "./DashBoard/ManageProducts/ManageProducts"
