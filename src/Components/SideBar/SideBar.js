@@ -25,6 +25,7 @@ export function SideBar() {
                 <li><NavLink className={({isActive})=>isActive?classes.active:undefined} to="wishList">علاقه مندی ها</NavLink></li>
                 {decode.role==="admin" &&
                     <>
+                        <li><NavLink className={({isActive})=>isActive?classes.active:undefined} to="charts"> آمار روزانه</NavLink></li>
                         <li><NavLink className={({isActive})=>isActive?classes.active:undefined} to="manageOrders"> مدیریت سفارشات</NavLink></li>
                         <li><NavLink className={({isActive})=>isActive?classes.active:undefined} to="manageProducts"> مدیریت محصولات</NavLink></li>
                         <li><NavLink className={({isActive})=>isActive?classes.active:undefined} to="manageCategory"> مدیریت برندها</NavLink></li>

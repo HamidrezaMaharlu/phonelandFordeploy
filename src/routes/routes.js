@@ -4,6 +4,7 @@ import {HomePage,Products,Product,Basket,Checkout,Login,Register,Payment,Profile
 import DashBoard from "../layouts/DashBoard/DashBoard";
 import {checkAuthLoader} from "./protectedRoute";
 import ProductsCategory from "../layouts/ProductsCategory/ProductsCategory";
+import Charts from "../pages/DashBoard/Charts/Charts";
 
 export const router = createBrowserRouter([
         {
@@ -38,6 +39,7 @@ export const router = createBrowserRouter([
                         {path:"profile", element: <Profile/>,handle:{crumb: () => <Link to="dashboard/profile">پروفایل</Link>}},
                         {path:"orders", element: <Orders/>,handle:{crumb: () => <Link to="dashboard/orders">سفارشات</Link>}},
                         {path:"wishlist", element: <WishList/>,handle:{crumb: () => <Link to="dashboard/wishlist">علاقه مندی ها</Link>}},
+                        {path:"charts", element: <Charts/>,handle:{crumb: () => <Link to="dashboard/charts">آمار روزانه</Link>}},
                         {path:"manageOrders", element: <ManageOrders/>,handle:{crumb: () => <Link to="dashboard/manageOrders">مدیریت سفارشات</Link>}},
                         {path:"manageProducts", element: <ManageProducts/>,handle:{crumb: () => <Link to="dashboard/manageProducts">مدیریت محصولات</Link>}},
                         {path:"manageCategory", element: <ManageCategory/>,handle:{crumb: () => <Link to="dashboard/manageCategory">مدیریت برند</Link>}},
